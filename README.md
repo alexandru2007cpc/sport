@@ -36,6 +36,7 @@ L'objectif de cette application est de rendre cette tache simple et rapide afin 
 ## Comment l'utiliser?
 Notre application possède 2 fonctionnalités, une permettant de réaliser des recherches d'associations sportives dans la ville de Toulouse, et une autre offrant la possibilité de réaliser des graphes sur les licensies d'Occitanie.
 ### Recherche d'associations sportives
+Il suffit de clicker sur le boutton "Lance la Recherche" ou de scroller vers le bas avec la souris. On a alors 3 bouttons deroulants qui permettent de séléctionner les paramètres de la recherche. On notera qu'il n'est pas obligatoire que chaque boutton possède un parametre séléctionné. Pour faciliter la recherche chaque boutton possède une bar de recherche permettant à l'utilisateur d'obtenir des résultats plus rapide en écrivant le paramètre souhaité.
 
 
 
