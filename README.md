@@ -12,7 +12,7 @@ $ cd sport
 $ pip install -r requirements.txt
 $ cd sources
 $ python app.py
-
+$ exit
 
 3) Clicker sur le lien http://127.0.0.1:5000 qui s'affiche alors à l'écran
 
