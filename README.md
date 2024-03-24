@@ -34,7 +34,9 @@ L'objectif de cette application est de rendre cette tache simple et rapide afin 
 3) Cliquer sur le lien http://127.0.0.1:5000 qui s'affiche alors à l'écran.
 
 ## Comment l'utiliser?
-Notre application possède 2 fonctionnalités, une permettant de réaliser des recherches d'associations sportives dans la ville de Toulouse, et une autre offrant la possibilité de réaliser des graphes sur les licensies d'Occitanie
+Notre application possède 2 fonctionnalités, une permettant de réaliser des recherches d'associations sportives dans la ville de Toulouse, et une autre offrant la possibilité de réaliser des graphes sur les licensies d'Occitanie.
+### Recherche d'associations sportives
+
 
 
 
