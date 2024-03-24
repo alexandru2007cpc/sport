@@ -5,11 +5,15 @@ L'objectif de cette application est de rendre cette tache simple et rapide afin 
 
 ## Table des Matières
 
-- [Installation](#protocole-dinstallation)
-- [Utilisation](#utilisation)
-- [Contributions](#contributions)
-- [License](#license)
-- [Contact](#contact)
+### Spécifications Techniques
+1. Configuration Requise
+2. Dépendances
+3. Installation
+
+### Spécifications Fonctionnelles
+1. Fonctionnalité 1
+2. Fonctionnalité 2
+3. Fonctionnalité 3
 
 
 ## Protocole d'installation
