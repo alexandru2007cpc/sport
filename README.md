@@ -3,7 +3,7 @@
 
 1) Installer git
    
---> [Télécharger git](https://git-scm.com/downloads)
+   --> [Télécharger git](https://git-scm.com/downloads)
      
 2) Aller dans l'invite de commandes et exécuter les lignes suivantes :
 
