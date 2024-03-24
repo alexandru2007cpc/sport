@@ -1,5 +1,5 @@
 # README
-Afin de faire fonctionner le programme, il faut:
+## Protocole d'utilisation
 
 Installer git  https://git-scm.com/downloads
      
