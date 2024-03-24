@@ -6,9 +6,9 @@ L'objectif de cette application est de rendre cette tache simple et rapide afin 
 ## Table des Matières
 
 ### Spécifications Techniques
-1. Configuration Requise
-2. Dépendances
-3. Installation
+1. [Protocole d'installation](#)
+2. [Guide d'utilisation](#)
+3. [Description Fonctionnalité](#)
 
 ### Spécifications Fonctionnelles
 1. Fonctionnalité 1
