@@ -5,15 +5,15 @@ L'objectif de cette application est de rendre cette tache simple et rapide afin 
 
 ## Table des Matières
 
-### Spécifications Techniques
+### Spécifications Fonctionnelles
 1. [Protocole d'installation](#)
 2. [Guide d'utilisation](#)
 3. [Description Fonctionnalité](#)
 
-### Spécifications Fonctionnelles
-1. Fonctionnalité 1
-2. Fonctionnalité 2
-3. Fonctionnalité 3
+### Spécifications Techniques
+1. [Architecture](#)
+2. [Langages et bibliothèques utilisées](#)
+3. [Autre](#)
 
 
 ## Protocole d'installation
