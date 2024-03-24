@@ -1,0 +1,81 @@
+/* Resetting default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Basic styling */
+body {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Container styling */
+.table {
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+/* Title styling */
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    color: #e66465;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Table styling */
+.clubs-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.clubs-table th, .clubs-table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.clubs-table th {
+    background-color: #9198e5;
+    font-weight: bold;
+    color: #fff;
+}
+
+.clubs-table td {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Button styling */
+.btn {
+    background-color: #e66465;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #ff7b7f;
+}
+
+.btn span {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.btn:hover span {
+    transform: translateX(5px);
+}

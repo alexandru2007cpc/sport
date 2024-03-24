@@ -1,0 +1,237 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    text-decoration:none;
+    scroll-behavior: smooth;
+    
+}
+header{
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 33px 9%;
+    background: transparent;
+}
+
+.barnav{
+    display: flex;
+}
+
+.barnav a{
+    color: white;
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600px;
+    border-bottom: 2px solid transparent;
+    transition: all .60s ease;
+}
+
+.barnav a:hover{
+    border-bottom: 2px solid white;
+}
+
+#menu_icon{
+    color: white;
+    font-size: 35px;
+    z-index: 10001;
+    cursor: pointer;
+    display: none;
+}
+.titre{
+    color: white;
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(#e66465, #9198e5);
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 3rem;
+}
+
+section{
+    padding: 0 19%;
+}
+.titre-texte h1{
+    font-family: "Permanent Marker", cursive;
+    font-size: 70px;
+    line-height: 1;
+    color: white;
+    margin: 0 0 45px;
+    margin-top: 50px;
+}
+
+.titre-image img{
+    width: 700px;
+    height: auto;
+    margin-top: 50px;
+}
+.titre-texte a{
+    display: inline-block;
+    color: white;
+    background:#7a80cc;
+    border: 1px solid transparent;
+    padding: 12px 30px;
+    line-height:1.4;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 30px;
+    text-transform: uppercase;
+    transition: all .60s ease;
+}
+.titre-texte a:hover{
+    background: transparent;
+    border: 1px solid white;
+    transform: translateX(8px)
+}
+
+.titre-texte a.ctaa{
+    border: 1px solid white;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.button_dropdown{
+    width: 370px;
+    margin: 130px auto 0;
+    color: black;
+}
+.filtrage{
+    color: white;
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background: #9198e5;
+    padding-top: 30px;
+}
+.parametres{
+    display: flex;
+    justify-content: space-evenly;
+}
+.instructions h2{
+    padding-top: 10px;
+}
+.btn {
+    border-radius: 4px;
+    background-color: #d96b4a;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-top: 20px;
+  }
+
+  .btn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .btn span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .btn:hover span {
+    padding-right: 25px;
+  }
+  .btn:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.choix-btn, .options li{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+}
+.choix-btn{
+    height: 65px;
+    padding: 0 20px;
+    background: white;
+    border-radius: 7px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    cursor: pointer;
+}
+.choix-btn i{
+    font-size: 30px;
+    color: black;
+    transition: transform 0.3s linear;
+}
+.class1.active .choix-btn i{
+    transform: rotate(-180deg);
+}
+.class2.active .choix-btn i{
+    transform: rotate(-180deg);
+}
+.class3.active .choix-btn i{
+    transform: rotate(-180deg);
+}
+.contenu{
+    background: white;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 7px;
+    display: none;
+}
+.class1.active .contenu{
+    display: block;
+}
+.class2.active .contenu{
+    display: block;
+}
+.class3.active .contenu{
+    display: block;
+}
+.contenu .recherche{
+    position: relative;
+}
+.recherche input{
+    height: 53px;
+    width: 100%;
+    font-size: 17px;
+    padding: 0 15px 0 43px;
+    border: 1px solid #b3b3b3;
+    border-radius: 5px;
+}
+.recherche i {
+    position: absolute;
+    left: 15px;
+    line-height: 53px;
+}
+.contenu .options{
+    margin-top: 10px; 
+    max-height: 250px; 
+    overflow-y: auto; 
+}
+.options li{
+    height: 50px;
+    padding: 0 13px;
+    font-size: 21px;
+    border-radius: 5px;
+}
+
+.options li:hover, li.selectionne{
+    background: #f2f2f2;
+}
+  
+

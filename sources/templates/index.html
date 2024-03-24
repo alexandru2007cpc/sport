@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!---lien pyscript-->
+    <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />
+    <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script> 
+
+    <title>Mon Club de Sport à Toulouse</title>
+
+    <!---lien css customisable-->
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+
+    <!---lien boxicons-->
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+
+    <!---lien remixicons-->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
+
+    <!---lien google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <header>
+    </header>
+    
+    <section class="titre" id="section1">
+        <div class="titre-texte">
+            <h1>Trouve Ton Club De Sport à Toulouse</h1>
+            <a href="#section2" class="ctaa"> <i class='bx bx-play'></i>Lance La Recherche</a> 
+            <a href="/visualise" class="ctaa">Réaliser une visualisation</a>
+        </div>
+
+        <div class="titre-image">
+            <img src="../static/main.png">
+        </div>
+    </section>
+
+    <section class="filtrage" id="section2">
+
+        <div class="instructions">
+            <h2>Choisis Tes Paramètres Et Lance Ta Recherche</h2>
+        </div>
+
+        <div class="parametres">
+
+            <div class="class1">
+                <div class="button_dropdown" id="button_dropdown_age">
+                    <div class="choix-btn" id="choix-btn_age">
+                        <span>Choisis Age</span>
+                        <i class="ri-arrow-down-circle-line"></i> 
+                    </div>
+                    <div class="contenu">
+                        <div class="recherche">
+                            <i class="ri-search-line"></i>
+                            <input type="text" placeholder="Rechercher" id="input_age">
+                        </div>
+                    <ul class="options" id="options_age"></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="class2">
+                <div class="button_dropdown" id="button_dropdown_discipline">
+                    <div class="choix-btn" id="choix-btn_discipline">
+                        <span>Choisis ta discipline</span>
+                        <i class="ri-arrow-down-circle-line"></i> 
+                    </div>
+                    <div class="contenu">
+                        <div class="recherche">
+                            <i class="ri-search-line"></i>
+                            <input type="text" placeholder="Rechercher" id="input_discipline">
+                        </div>
+                    <ul class="options" id="options_discipline"></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="class3">
+                <div class="button_dropdown" id="button_dropdown_quartier">
+                    <div class="choix-btn" id="choix-btn_quartier">
+                        <span>Choisis ton quartier</span>
+                        <i class="ri-arrow-down-circle-line"></i> 
+                    </div>
+                    <div class="contenu">
+                        <div class="recherche">
+                            <i class="ri-search-line"></i>
+                            <input type="text" placeholder="Rechercher" id="input_quartier">
+                        </div>
+                    <ul class="options" id="options_quartier"></ul>
+                    </div>
+                </div> 
+            </div>
+
+        </div>
+
+        <div class="btn-recherche" id="btn-recherche">
+
+                <button class="btn" onclick="redirectionnerAutrePage()"> <span>Réaliser La Recherche</span></button>
+
+        </div>
+    </section>
+    
+    <!--apparition animé-->
+    <script src="https://unpkg.com/scrollreveal"></script>
+
+   <!---lien js customisable-->
+   <script src="../static/js/apparition_elements.js"></script>
+   <script src="../static/js/liste_deroulante.js"></script>
+   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+
+
+</body>
+</html>

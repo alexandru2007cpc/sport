@@ -1,0 +1,23 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: flex-start; 
+    font-family: 'Poppins', sans-serif;
+}
+
+.page_principale {
+    font-size: 32px;
+    color: #e66465;
+    text-decoration: none;
+    font-weight: bold; /* Adjusted font-weight value */
+    transition: transform 0.3s, color 0.3s; /* Added transition for transform and color */
+}
+
+.page_principale:hover {
+    color: #9198e5; /* Changes text color on hover */
+    transform: scale(1.1); /* Increases size on hover */
+}

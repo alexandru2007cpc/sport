@@ -1,0 +1,760 @@
+DISCIPLINE,ASSO_NOM,site web,QUARTIERS,COMPLEXE,UNITE FONCTIONNELLE,RUE_LIBELLE,UF_CP,UF_Commune,0-3ans,3-6ans,6-12ans,12-15ans,juniors16-20ans,adultes,séniors,handicapés,geolocalisation,
+VOL RADIO COMMANDE,MODEL AIR CLUB LANGUEDOCIEN,,Rangueil - CHR - Facultés,Nouveau Complexe Municipal,Base de sports et de loisirs Pech David,Chemin des côtes de Pech David,,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.589766, 1.415235
+AIKIDO,Espace Aïkido,espaceaikido.free.fr,Juncasse - Argoulets,LES ARGOULETS,MAISON DU JUDO ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.678769, 1.450277
+BASKET-BALL,ETOILE SPORTIVE TOULOUSE CASSELARDIT,,Les Pradettes,ENSEMBLE MARCEL CERDAN,COSEC MARCEL CERDAN,Chemin de la Cépière,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.613165, 1.324236
+BOWLING,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,Minimes,COMPLEXE PRIVÉ,Bowling des Minimes,Avenue des Minimes,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.58071, 1.4195
+CYCLOTOURISME,TOAC section CYCLISME,toac.cyclisme.free.fr/,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.693459, 1.268659
+gymnastique volontaire,TOULOUSE GYMNASTIQUE VOLONTAIRE,,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.609286, 1.458299
+équitation,PONEY CLUB DE LA SEILLONNE,,,COMPLEXE PRIVÉ,Poney Club de la Seillonne,,31130.0,Pin Balma,Oui,Oui,Oui,Oui,Oui,Non,Non,Oui,43.609568, 1.497847
+plongée,TCMS section PLONGEE,,,,,,,,Non,Non,Non,Non,Oui,Oui,Non,Non,43.698157, 1.225098
+FOOTBALL,ASSOCIATION SPORTIVE TOULOUSE LARDENNE,lardenneac.site.voila.fr,,PETIT CAPITOLE,TERRAIN DE FOOTBALL A 7 PETIT CAPITOLE,,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+FOOTBALL,ASSOCIATION SPORTIVE TOULOUSE MIRAIL FOOTBALL,,,ZONE DE LOISIRS DE LA MOUNEDE,TERRAIN DE FOOTBALL A 7 ENGAZONNE LA MOUNEDE,,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+FOOTBALL,TOULOUSE RANGUEIL FOOTBALL CLUB,www.trfc.free.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,TERRAIN DE FOOTBALL A 11 RANGUEIL,Rue de Nîmes,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.576366, 1.463547
+FOOTBALL,TOULOUSE SAINT JO,www.toulousestjofooball.eu,Côte Pavée,TERRAIN DE SPORTS LAFILAIRE,TERRAIN DE SPORT SERGENT VIGNE,Chemin de Lafilaire,31500.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.596067, 1.472423
+gymnastique artistique,AVENIR ETIENNE BILLIERES,shirka2@free.fr,Les Pradettes,ENSEMBLE MARCEL CERDAN,COSEC MARCEL CERDAN,Chemin de la Cépière,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.551059, 1.274041
+karaté,TCMS section KARATE,tcmskarate.free.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+NIHON TAI-JITSU,ASCGMP - ASSOCIATION SPORTIVE & CULTURELLE DE LA GENDARMERIE MIDI PYRENEES - SECTION COURREGE,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,,
+randonnée,ASSOCIATION PYRENEES CLUB,www.pyrenees-club.asso.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+BOXE THAILANDAISE / MUAY THAI,ROYAL BOXING,www.royalnaresuanboxing.com,Patte d'Oie,COMPLEXE PRIVÉ,Royal Naresuan Boxing,Rue Adolphe Coll,31300.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.598025, 1.424785
+pelote basque,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Sept Deniers,Complexe du TOAC,Fronton du TOAC,Chemin de Garric,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.674408, 1.435951
+pelote basque,TOULOUSE PILOTA,,Juncasse - Argoulets,LES ARGOULETS,PELOTE BASQUE ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.64429, 1.446693
+pétanque,PETANQUE CLUB CASSELARDIT,,Casselardit,BATIMENTS SUR DOMAINE PUBLIC,EQUIPEMENT SPORTIF DE PROXIMITE BAUDIN CASSELARDIT,Place Jean-Baptiste Baudin,31300.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.604459, 1.4095550000000001
+randonnée Pédestre,LES RANDONNEURS TOULOUSAINS,www.randonneurstoulousains.fr,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+BOULES LYONNAISES,AMICALE BOULISTE COLONNE MARENGO,,,CIMETIERE TERRE CABADE,BOULODROME FRANCOIS CARBONNE,,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.604268, 1.441019
+BOULES LYONNAISES,CLUB BOULISTE TOULOUSAIN,,Juncasse - Argoulets,MAIRIE ANNEXE ROSERAIE,BOULODROME COUVERT RENE CANNIZZO,Avenue du Parc,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.621158, 1.47173
+BEACH VOLLEY,BEACH VOLLEY TOULOUSAIN,www.beachvolleytoulousain.com,Ramier,PARC DES SPORTS,TERRAINS JEUX PARC DES SPORTS,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.595042, 1.419562
+gymnastique volontaire,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.573964, 1.48466
+POLO,CAPITOLE POLO,www.francepolo.com,,,,,,,Non,Non,Oui,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+plongée,SALSA PLONGEE,,Ramier,PARC DES SPORTS,PISCINE NAKACHE,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Non,,
+FOOTBALL,BALMA SPORTING CLUB,www.balmafoot.com,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.609568, 1.497847
+FOOTBALL,TOULOUSE RANGUEIL FOOTBALL CLUB,www.trfc.free.fr,Rangueil - CHR - Facultés,ZONE VERTE DE PECH DAVID,TERRAIN DE SPORT SORDELOT,Chemin des côtes de Pech David,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.589766, 1.415235
+MUSCULATION - HALTEROPHILIE,JUDO OLYMPIA GYM,olympiagym.free.fr,Matabiau,COMPLEXE PRIVÉ,Judo Olympia Gym,Rue Caffarelli,31000.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.608465, 1.450373
+JUDO ADAPTE,JUDO OLYMPIA GYM,olympiagym.free.fr,Matabiau,COMPLEXE PRIVÉ,Judo Olympia Gym,Rue Caffarelli,31000.0,Toulouse,Non,Non,Non,Non,Non,Non,Non,Oui,43.608465, 1.450373
+karaté,KARATE CLUB LEO LAGRANGE,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.679622, 1.522447
+Karting handisport,ASMTH HANDICAP DEFI - Association Sportive Muret Toulouse Handisport,www.handicapdefi.com,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.604268, 1.441019
+lutte,TUC OMNISPORTS- Toulouse Université Club,www.artlutteexpression.fr,Ramier,Stade Universitaire Daniel Faucher,Stade Universitaire Daniel Faucher,Allée du Professeur Camille Soula,31400.0,Toulouse,Non,Non,Non,Non,Non,Oui,Non,Non,43.580038, 1.435198
+ESCALADE,ASSOCIATION PYRENEES CLUB,www.pyrenees-club.asso.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+AQUAGYM,TAC - Toulouse Athlétic Club,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.633748, 1.4478300000000002
+pelote basque,TAC section PELOTE BASQUE,,Ramier,PARC DES SPORTS,PELOTE BASQUE PARC DES SPORTS,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.583959, 1.436448
+pétanque,BOULE IZARDS CLUB,,Les Izards,ENSEMBLE LAZARET DE LALANDE,BOULODROME COUVERT DES IZARDS,Rue des Chamois,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.638693, 1.443171
+pétanque,PETANQUE CLUB AMOUROUX,www.petanque-club-amouroux.org,Roseraie,DEPOT THEATRE AMOUROUX,BOULODROME AMOUROUX,Rue d' Arles,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.627891, 1.4675989999999999
+pétanque,PETANQUE CLUB FONQUERNE,www.bou.maurice89.fr,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+pétanque,PETANQUE CLUB LE COCHONNET,,Minimes,ENSEMBLE MARCHE AUX COCHONS,BOULODROME LE COCHONNET,Place du Marché Aux Cochons,31200.0,TOULOUSE,Non,Non,Oui,Oui,Non,Oui,Oui,Non,43.620507, 1.435095
+randonnée Pédestre,SENTIER ET AMITIE,sentier.amitie.free.fr,Pont des Demoiselles,STADE PHILIPPE STRUXIANO,STADE PHILIPPE STRUXIANO,Avenue de Lespinet,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.52279, 1.3172169999999999
+retraite sportive,ASTORS - Association Toulousaine de la Retraite Sportive,,Ginestous,ZONE RECREATIVE DE SESQUIERES,TENNIS SESQUIERES,Chemin du Pont de Rupe,31200.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Oui,Non,43.655982, 1.416316
+BOULES LYONNAISES,LES AMIS DE RAYNAL,,Barrière de Paris,ENSEMBLE SCOLAIRE TLSE LAUTREC,BOULODROME NEGRENEYS - JACQUES BOUTRIT,Impasse Pierre Curie,31200.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.626087, 1.441335
+tae kwon do,DOJO EXPRESSION,www.dojo-expression.com,Château de L'Hers,COMPLEXE PRIVÉ,Dojo Expression,Avenue Raymond Naves,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.597682, 1.474807
+taï chi chuan/Qi Gong,DOUCEUR DE VIE,www.douceurdevie.com,Saint Cyprien,Nouveau Complexe Municipal,Espace Saint Cyprien,Allées Charles de Fitte,31300.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.612468, 1.4322979999999998
+tennis,ASPTT section TENNIS,www.toulouse.asptt.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+tennis de table,PATTE D'OIE TENNIS DE TABLE,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+planche à voile,TOAC section VOILE,toac.voile.free.fr/,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+YOGA,CYSO - Cercle de Yoga du Sud Ouest,www.cyso-yoga.org,Sauzelong - Rangueil,Nouveau Complexe Municipal,Maison de quartier Rangueil,Rue Claude de Forbin,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.577165, 1.421124
+ATHLETISME hors stade,TOULOUSE UNIVERSITE CLUB SECTION ATHLETISME,www.satuc.com,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+BOWLING,SPORT QUILLES TOULOUSAIN,,Gramont,COMPLEXE PRIVÉ,Bowling de Gramont,Chemin de Gabardie,31500.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.640724, 1.482143
+CYCLISME SUR ROUTE,ROWING NOUVEAU,,Ramier,COMPLEXE PRIVÉ,Rowing Nouveau,Allée Alfred Mayssonnie,31400.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.590233, 1.436469
+CAPOEIRA,AIKIDO BUDO CLUB (ABC),aikidobudoclub.free.fr,Bonnefoy,COMPLEXE PRIVÉ,Aïkido Budo Club,Rue du Docteur Ferdinand Gendre,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.619949, 1.45852
+ATHLETISME hors stade,A S MACCABI TOULOUSE,maccabitoulouse.com,Pont des Demoiselles,STADE PHILIPPE STRUXIANO,STADE PHILIPPE STRUXIANO,Avenue de Lespinet,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.59651, 1.441252
+BASKET-BALL,TOULOUSE BASKET CLUB,www.toulouse-basket-club.fr,Jules Julien,CES JEAN MOULIN,GYMNASE JEAN MOULIN,Avenue des Ecoles Jules Julien,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+COURSE D'ORIENTATION,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,toaco.free.fr,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+CYCLOTOURISME,TEC - Toulouse Electrogaz Club,,,Extérieurs de Toulouse,Routes de campagne,,,Routes de campagne,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.256732, 1.196818
+éveil à la danse,VIRE ET VOLTE,www.virevolte.fr,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Oui,Oui,Non,Non,Non,Non,Non,43.578802, 1.383944
+gymnastique volontaire,ASSOCIATION GYMNASTIQUE VOLONTAIRE JEAN RIEUX,,Côte Pavée,Centre polyvalent Jean Rieux,Gymnase Jean Rieux,Avenue Jean Rieux,31500.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.589777, 1.470622
+équitation,CLUB HIPPIQUE DE PECH DAVID,www.chpechdavid.com,Rangueil - CHR - Facultés,COMPLEXE PRIVÉ,Club Hippique de Pech David,Chemin des Canalets,31400.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.562741, 1.444268
+plongée,ECOLE PLONGEE EVASION,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+FOOTBALL,A.S. DOM TOM,asdomtom.free.fr,,ZONE DE LA RAMEE,TERRAIN 2 LA RAMEE,,31170.0,TOURNEFEUILLE,Non,Non,Non,Non,Non,Non,Oui,Non,43.664534, 1.377392
+FOOTBALL,RACING CLUB BONNEFOY,,Croix Daurade,TERRAIN SPORTS CAZAL LAPUJADE,TERRAIN DE SPORT CAZAL LAPUJADE,Rue d' Avranches,31200.0,TOULOUSE,Non,Non,Oui,Oui,Non,Oui,Oui,Non,43.633079, 1.4660229999999999
+FOOTBALL GAELIQUE,TOLOSA DESPORTS GAELIC,www.tolosagaels.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.683441, 1.318569
+full contact,TOAC section FULL CONTACT,www.toac-boxe.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Non,Non,43.490129, 1.5158
+gymnastique artistique,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.615771, 1.470962
+handball,TOULOUSE UNION HANDBALL,www.toulousehandball.com,Juncasse - Argoulets,LES ARGOULETS,GYMNASE DES ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.614806, 1.478052
+JUDO ADAPTE,CROIX DE PIERRE JUDO,croixdepierrejudo.free.fr,Croix de Pierre,COLLEGE MAURICE BECANNE,GYMNASE MAURICE BECANNE,Rue Pierre Bourthoumieux,31300.0,TOULOUSE,Non,Oui,Oui,Oui,Non,Oui,Non,Non,43.584057, 1.425751
+NATATION,ASMTH HANDICAP DEFI - Association Sportive Muret Toulouse Handisport,www.handicapdefi.com,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Oui,43.578277, 1.4145189999999999
+karaté,TUC Section KARATE,www.tuc.asso.fr,,COMPLEXE PRIVÉ,Université de Toulouse Mirail,,31058.0,Toulouse cédex 9,Non,Non,Non,Non,Non,Non,Non,Non,43.667997, 1.429367
+WATER-POLO,STADE TOULOUSAIN NATATION,www.stadetoulousainnatation.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Oui,Non,Oui,Oui,Non,Non,43.633748, 1.4478300000000002
+jeu provençal,PETANQUE CLUB GRAND ROND,,Le Busca,Nouveau Complexe Municipal,Boulodrome Grand Rond,Allées Frédéric Mistral,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,,
+pétanque,JOYEUSE PETANQUE JOLIMONT,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+roller,UNION SPORTIVE TOULOUSE COLLINE,,Minimes,STADE DES MINIMES,GYMNASE MINIMES ARNAUNE,Avenue Frédéric Estèbe,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.621562, 1.436936
+BOXE FRANCAISE,TOULOUSE MULTI BOXE,tmboxe.free.fr,Patte d'Oie,COMPLEXE PRIVÉ,Académie des Arts Martiaux de Toulouse,Avenue de Lombez,31300.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.582, 1.448621
+ski nautique,SKI CLUB DE LA PENICHE,www.skiclubdelapeniche.com,Saint Cyprien,Prairie des filtres,Prairie des Filtres,Cours Dillon,31300.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,,
+ski nautique,TELESKINAUTIQUE DE SESQUIERES,www.teleskitoulouse.com,Ginestous,ZONE RECREATIVE DE SESQUIERES,LAC DE SESQUIERES,Chemin de Fenouillet,31200.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.647997, 1.414089
+BOULES LYONNAISES,AMICALE BOULISTE DE SALONIQUE,,Guilheméry,ECOLE MATERNELLE LA GLOIRE,BOULODROME SALONIQUE,Avenue de la Gloire,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.606838, 1.4658449999999998
+BOULES LYONNAISES,CLUB SPORTIF SAUZELONG RANGUEIL,,Jules Julien,BOULODROME ETIENNE ROUX,BOULODROME ETIENNE ROUX,Avenue Léon Viala,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.574958, 1.4530859999999999
+taï chi chuan/Qi Gong,DOUCEUR DE VIE,www.douceurdevie.com,Château de L'Hers,Salle SCHIAVY,Salle SCHIAVY,Rue Henriette Achiary,,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,,
+tennis,OLYMPE BADMINTON CLUB,www.club.fft.fr/olympetoulouse,Ginestous,Complexe Olympe,Tennis Olympe,Route de Blagnac,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,,
+tir sportif,TOAC section TIR,,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.497941, 1.311634
+duathlon et triathlon,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,www.chez.com/toactri/,Bellefontaine,ALBAN MINVILLE,PISCINE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.619471, 1.3027389999999999
+BEACH VOLLEY,BEACH VOLLEY TOULOUSAIN,www.beachvolleytoulousain.com,Ramier,Stade Universitaire Daniel Faucher,Stade Universitaire Daniel Faucher,Allée du Professeur Camille Soula,31400.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Non,Non,,
+wushu,MIDI PYRENEES SHAOLIN SI WASHU QUAN - ECOLE SHI MIAOFENG,shaolinmidipyrenees.org,Matabiau,COMPLEXE PRIVÉ,Judo Olympia Gym,Rue Caffarelli,31000.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.608465, 1.450373
+YOGA,CYSO - Cercle de Yoga du Sud Ouest,www.cyso-yoga.org,Rangueil - CHR - Facultés,COMPLEXE PRIVÉ,Gymnase du Lycée Bellevue,Route de Narbonne,31400.0,Toulouse,Non,Non,Non,Non,Non,Non,Non,Non,43.568919, 1.423578
+VIET VO DAO,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.615771, 1.470962
+BASKET-BALL,TOAC section BASKET,www.toac-basket.org/,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.664547, 1.503845
+DANSE INDIENNE - BOLLYWOOD,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.573964, 1.48466
+BOWLING,ECOLE DE BOWLING DE TOULOUSE,,Minimes,COMPLEXE PRIVÉ,Bowling des Minimes,Avenue des Minimes,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Non,Non,Non,43.621047, 1.435368
+BOWLING,TOULOUSE BOWLING CLUB,,Minimes,COMPLEXE PRIVÉ,Bowling des Minimes,Avenue des Minimes,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.58071, 1.4195
+quilles de huit,SQAAT - SPORT QUILLES DE 8 SECTION AMICALE DES AVEYRONNAIS DE TOULOUSE,sqaat.wife.com,Ginestous,ZONE RECREATIVE DE SESQUIERES,BOULODROME SESQUIERES,Chemin de Fenouillet,31200.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.551417, 1.532693
+CIRQUE,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.573964, 1.48466
+plongée,CLUB SUBAQUATIQUE TOULOUSAIN,csat.free.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.593607, 1.462219
+ATHLETISME ADAPTE (EN STADE),TCMS section ATHLETISME,www.tcms-athletisme.com,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+JUDO ADAPTE,CETAM - Centre d'Etudes Toulousain des Arts Martiaux,,Saint Aubin - Dupuy,GROUPE SCOLAIRE CALVINHAC,GYMNASE CALVINHAC,Rue Jacques Labatut,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.598045, 1.454765
+kung-Fu,CAY DAO BINH DINH,binhdinh.free.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Non,Non,43.707846, 1.3848500000000001
+éveil aquatique,BEBES DAUPHINS TOULOUSAINS,www.bbdt31.org,Ramier,PARC DES SPORTS,PISCINE NAKACHE,Allée Gabriel Biénès,31400.0,TOULOUSE,Oui,Oui,Non,Non,Non,Non,Non,Non,43.60593, 1.453138
+NATATION,LE CERCLE DES NAGEURS DE CUGNAUX,,,ZONE DE LA RAMEE,Piscine la Ramée,,31170.0,TOURNEFEUILLE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.575595, 1.270976
+pétanque,LA BOULE DU RUGBY,,Minimes,STADE DES MINIMES,BOULODROME ARNAUNE,Avenue des Minimes,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.621047, 1.435368
+roller,Roller Club Toulousain,rct.fr.fm,,ZONE DE LA RAMEE,GYMNASE LA RAMEE,,31170.0,TOURNEFEUILLE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+rugby,TCMS section RUGBY,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.664547, 1.503845
+BOXE FRANCAISE,CLUB DE KARATE - BOXE FRANCAISE DES PRADETTES,CKP.neuf.fr,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.578802, 1.383944
+BOXE FRANCAISE,TCMS section BOXE FRANCAISE,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+savate,TOULOUSE MULTI BOXE,tmboxe.free.fr,Patte d'Oie,COMPLEXE PRIVÉ,Académie des Arts Martiaux de Toulouse,Avenue de Lombez,31300.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.582, 1.448621
+ski de fond,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Alpes,,,Dans les Alpes,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+tae kwon do,ECOLE TRADITIONNELLE DE TAEKWONDO,,,ENSEMBLE VALMY BELLEFONTAINE,SALLE 1 D'ARTS MARTIAUX VALMY,,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+AIKIDO,ECOLE LAURAGAISE D'AIKIDO,,Saint Aubin - Dupuy,GROUPE SCOLAIRE CALVINHAC,GYMNASE CALVINHAC,Rue Jacques Labatut,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.589939, 1.4628269999999999
+ATHLETISME ADAPTE (EN STADE),TCMS section ATHLETISME,www.tcms-athletisme.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+BADMINTON,ASSOCIATION SPORTIVE TOULOUSE MIRAIL BADMINTON,www.astmb.fr,Bellefontaine,ENSEMBLE VALMY BELLEFONTAINE,GYMNASE VALMY,Cheminement Guillaume et Joseph Bouton,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.609585, 1.339368
+BOWLING,ASPTT section BOWLING,www.toulouse.asptt.com,Montaudran Lespinet,COMPLEXE PRIVÉ,Bowling de Montaudran,Impasse Louise Labe,,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.640484, 1.453579
+BOWLING,ASSOCIATION SPORTIVE AIR FRANCE,www.asaf.sport.asso.fr,Gramont,COMPLEXE PRIVÉ,Bowling de Gramont,Chemin de Gabardie,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.580282, 1.4715989999999999
+BOWLING,BOWLERS TOULOUSAINS,,Gramont,COMPLEXE PRIVÉ,Bowling de Gramont,Chemin de Gabardie,31500.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.608715, 1.475931
+BOWLING,BOWLING CLUB 31,,,COMPLEXE PRIVÉ,Bowling de Labège,,31670.0,Labège,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.584752, 1.525733
+gymnastique volontaire,AGV EMILE ZOLA,,Saint Michel,SALLE BERTRAND SONCOURT,SALLE BERTRAND SONCOURT,Rue du Gorp,,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.587782, 1.44967
+gymnastique volontaire,ASCGMP - ASSOCIATION SPORTIVE & CULTURELLE DE LA GENDARMERIE MIDI PYRENEES - SECTION COURREGE,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,,
+gymnastique volontaire,TAC section GYMNASTIQUE VOLONTAIRE,,La Fourguette,Stade du TAC,Stade de Gironis,Rue de Gironis,31100.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.564802, 1.414267
+équitation,ECURIES DE LA BERGERIE,www.ecuriedelabergerie.com,,COMPLEXE PRIVÉ,Ecuries de la Bergerie,,31280.0,Mons,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.610586, 1.573372
+escrime,CSAG - CLUB SPORTIF ET ARTISTIQUE DE GARNISON TOULOUSE,,,Quartier Balma Ballon,Quartier Balma Ballon,,31130.0,Balma,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+escrime,TUC Section ESCRIME,www.tuc-escrime.com,Château de L'Hers,ENSEMBLE CHATEAU DE L'HERS,SALLE D'ESCRIME COMPLEXE SPORTIF DE L'HERS,Rue Claudius Rougenet,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.599624, 1.485406
+FOOTBALL,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,Montaudran Lespinet,GROUPE SCOLAIRE MONTAUDRAN,TERRAIN DE SPORT MONTAUDRAN,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.573964, 1.48466
+football américain,LES OURS,www.ours-toulouse.com,Juncasse - Argoulets,LES ARGOULETS,STADE ARGOULETS,Rue de Rabastens,31500.0,TOULOUSE,Non,Non,Non,Oui,Oui,Non,Oui,Non,43.686596, 1.441652
+karaté,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Sept Deniers,Complexe du TOAC,Fronton du TOAC,Chemin de Garric,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.620162, 1.408135
+ALPINISME,CADETS DE TOULOUSE,www.kdtoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+AQUAGYM,STADE TOULOUSAIN NATATION,www.stadetoulousainnatation.fr,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+NATATION,ASPTT section NATATION,www.toulouse.asptt.com,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+NATATION SYNCHRONISEE,TOULOUSE NAT SYNCHRO,www.toulouse-natsynchro.fr,Bellefontaine,ALBAN MINVILLE,PISCINE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.608085, 1.426837
+pétanque,AVENIR PETANQUE SAINT SIMON,,Saint Simon,EQUIPEMENTS QUARTIER ST SIMON,BOULODROME COUVERT JEAN DANIEL SAINT SIMON,Rue du Cimetière Saint Simon,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.556286, 1.382822
+pétanque,CLUB PETANQUE LA TERRASSE,,La Terrasse,ENSEMBLE DE LA TERRASSE,BOULODROME LA TERRASSE,Impasse Eugène Trutat,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.583899, 1.485436
+pétanque,PETANQUE CLUB ANCELY,,Purpan,Nouveau Complexe Municipal,Boulodrome Ancely,Allée de la Limagne,31300.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.619607, 1.398836
+rugby,TEC - Toulouse Electrogaz Club,,,,,,,,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,43.604268, 1.441019
+rugby,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Casselardit,STADE DU TOEC,STADE DU TOEC,Rue Ernest Dufer,31300.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.633008, 1.443865
+ski de fond,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+snowboard (surf des neiges),CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+patinage artistique,TOULOUSE CLUB DE PATINAGE,toulouseclubpatinage.com,Juncasse - Argoulets,LES ARGOULETS,PATINOIRE FRATERNITE,Avenue de l' Hers,31500.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,,
+taï chi chuan/Qi Gong,ASSOCIATION TAO,www.croixdepierreculture.free.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+taï chi chuan/Qi Gong,DOUCEUR DE VIE,www.douceurdevie.com,Saint Cyprien,Prairie des filtres,Prairie des Filtres,Cours Dillon,31300.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.600201, 1.4451640000000001
+tennis,A S MACCABI TOULOUSE,www.maccabitoulouse.com,Sept Deniers,TENNIS DES PONTS JUMEAUX,TENNIS COUVERTS PONT JUMEAUX,Rue des Sports,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.606054, 1.4411049999999999
+tennis,EMULATION NAUTIQUE DE TOULOUSE,www.aviron-tennis.fr,Ramier,COMPLEXE PRIVÉ,Emulation Nautique de Toulouse,Allée Alfred Mayssonnie,31400.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.590233, 1.436469
+VOLLEY BALL,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Sept Deniers,Complexe du TOAC,Gymnase Emile Dewoitine,Chemin de Garric,31200.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.620162, 1.408135
+VIET VO DAO,Thieu Lam Hông Quyên,www.hongquyen.com,Patte d'Oie,COMPLEXE PRIVÉ,Académie des Arts Martiaux de Toulouse,Avenue de Lombez,31300.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.558481, 1.279141
+AIKIDO,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.615771, 1.470962
+AIKIDO,BALMA SAINT EXUPERY 31,www.bse31.com,Pont des Demoiselles,COMPLEXE PRIVÉ,Balma Saint-Exupéry 31,Avenue Antoine de Saint Exupéry,31400.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.583177, 1.471575
+AVIRON,ASSOCIATION TOULOUSE PIERRE PAUL RIQUET,atppr.free.fr,Ramier,COMPLEXE PRIVÉ,Emulation Nautique de Toulouse,Allée Alfred Mayssonnie,31400.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.774297, 1.686036
+CANOE-KAYAK,CANOE KAYAK TOULOUSAIN,ckt.free.fr,,Rivières et fleuves,Ariège et Garonne,,,En Ariège et Garonne,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.604268, 1.441019
+CANOE-KAYAK,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+VTT,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+échecs,CERCLE AIRBUS TOULOUSE ECHECS,cateairbus.free.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,,
+échecs,CLUB D'ECHECS INTERNATIONAL DE TOULOUSE,ceit.free.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.604268, 1.441019
+gymnastique volontaire,GYM SAINT MARTIN,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+plongée,ASCUPS,,,,,,,,Non,Non,Non,Oui,Oui,Oui,Non,Non,,
+plongée,ASPTT section PLONGEE,www.toulouse.asptt.com,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+frisbee,TUC Section ULTIMATE,www.toulouseultimate.free.fr,Ramier,Stade Universitaire Daniel Faucher,Stade Universitaire Daniel Faucher,Allée du Professeur Camille Soula,31400.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Non,Non,43.580038, 1.435198
+FOOTBALL,UNION SPORTIVE BAGATELLE,,Bagatelle,ENSEMBLE BAGATELLE,STADE VINCENT SERRER,Impasse du Bachaga Boualam,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.579345, 1.409171
+gymnastique volontaire,SAKURA CLUB TOULOUSAIN,asct.toulouse.free.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.604268, 1.441019
+VOILE,ASPTT GRAND TOULOUSE OMNISPORT,,,Complexe ASPTT,Base nautique,,31390.0,Carbonne,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+JUDO,CROIX DE PIERRE JUDO,croixdepierrejudo.free.fr,Croix de Pierre,COLLEGE MAURICE BECANNE,GYMNASE MAURICE BECANNE,Rue Pierre Bourthoumieux,31300.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Non,43.577256, 1.262603
+kung-Fu,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.605744, 1.465466
+CANYONISME,JACUZZI,www.canyonjacuzzi.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+ESCALADE,ESCAPADE CLUB,escapadeclub.net,Mirail Université,COSEC MIRAIL,COSEC DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.616859, 1.421328
+BOXE THAILANDAISE / MUAY THAI,BALMA SAINT EXUPERY 31,www.bse31.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+éveil aquatique,BEBES DAUPHINS TOULOUSAINS,www.bbdt31.org,Bellefontaine,ALBAN MINVILLE,PISCINE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Oui,Oui,Non,Non,Non,Non,Non,Non,43.608085, 1.426837
+NATATION,INSTITUT GYMNIQUE DE TOULOUSE,,Rangueil - CHR - Facultés,ZONE VERTE DE PECH DAVID,PISCINE PECH DAVID,Chemin des côtes de Pech David,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.614954, 1.499982
+pétanque,BOULES RAPHAEL PARC,,Les Izards,STADE GEORGES RIGAL,BOULODROME RIGAL,Rue Raphaël,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.642774, 1.440821
+randonnée Pédestre,APYA Association Pyrénées Autrement,assoc.orange.fr/Pyrenees.autrement,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+retraite sportive,ASTORS - Association Toulousaine de la Retraite Sportive,,Ramier,PARC DES SPORTS,PISCINE NAKACHE,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Oui,Non,,
+roller,ROULEZ ROSE,www.roulezrose.com,Château de L'Hers,ENSEMBLE SPORTIF CHATEAU HERS,GYMNASE CHATEAU DE L'HERS,Chemin de Limayrac,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.589237, 1.489429
+BOXE FRANCAISE,TOULOUSE MULTI BOXE,tmboxe.free.fr,Faourette,ENSEMBLE LA FAOURETTE,GYMNASE LA FAOURETTE,Rue Paul Lambert,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.593607, 1.462219
+CANNE SPORTIVE ET BATON,TUC OMNISPORTS- Toulouse Université Club,www.tuc-cc.asso.st,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.559419, 1.653837
+kick boxing,TOULOUSE MULTI BOXE,tmboxe.free.fr,Faourette,ENSEMBLE LA FAOURETTE,GYMNASE LA FAOURETTE,Rue Paul Lambert,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.593607, 1.462219
+spéléologie,GROUPE SPELEOLOGIQUE DES PYRENEES,,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.480833, 1.430772
+AUTOMOBILE,ASSOCIATION SPORTIVE AUTOMOBILE CLUB DU MIDI,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Oui,,
+squash,TOAC Section SQUASH,www.toacsquash.com,Sept Deniers,Complexe du TOAC,Salle de sports du TOAC,Chemin de Garric,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.620162, 1.408135
+taï chi chuan/Qi Gong,ASSOCIATION YIM WING CHUN,yimwingchun.free.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+duathlon et triathlon,TOULOUSE TRIATHLON,www.toulouse-tri.com,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.615771, 1.470962
+duathlon et triathlon,TUC TRI 31,www.tuc-triathlon.com,Papus,GROUPE SCOLAIRE JACQUIER,PISCINE PAPUS,Allée de Guyenne,31100.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.484576, 1.389978
+VOILE,RACING CLUB OLYMPIQUE,,,,,,,,Non,Non,Non,Non,Oui,Oui,Non,Non,43.604268, 1.441019
+ULM et voltige,AEROCLUB M. DASSAULT & L. BREGUET,dassaultbreguet31.free.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.609568, 1.497847
+VOLLEY BALL,TROPIK 'CLUB TOULOUSE,www.tropikfc.fr,Croix Daurade,GYMNASE GEORGES OHNET,GYMNASE GEORGES OHNET,Rue Georges Ohnet,31200.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.583979, 1.453411
+YOGA,GV SPORT SANTE,gvsportsante.com,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+DANSE DE SALON / DANSE PAR COUPLES,ETOILE TOULOUSAINE,www.coursnicholas.com,Saint Aubin - Dupuy,COMPLEXE PRIVÉ,L'Etoile Toulousaine,Rue de l' Etoile,31000.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.60142, 1.453768
+FOOTBALL,TOULOUSE SAINT JO,www.toulousestjofooball.eu,,ENSEMBLE GRANDE PLAINE,TERRAIN DE FOOTBALL STABILISE GRANDE PLAINE,,31500.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+handball,TOULOUSE FEMININ HANDBALL,www.tfhb.org,Juncasse - Argoulets,LES ARGOULETS,GYMNASE DES ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.614806, 1.478052
+NATATION,TOAC NATATION,www.toacnatation.org,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+KINOMICHI METHODE NORO,ESPACE KINOMICHI,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+Raquette à neige,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+NATATION,LES DAUPHINS DU TOEC,www.lesdauphinsdutoec.com,Ramier,PARC DES SPORTS,PISCINE SPORTIVE CASTEX,Allée Gabriel Biénès,31400.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.60593, 1.453138
+pétanque,BOULING CLUB SPORTIF DE ROGUET,joseroguet@orange.fr,Patte d'Oie,Boulodrome Roguet,Boulodrome Roguet,Rue de Gascogne,31300.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.596346, 1.427446
+pétanque,CLUB BOULISTE LE TRACASSIN,,Amidonniers,CLUB BOULISTE DES AMIDONNIERS,BOULODROME TRACASSIN RUE DES AMIDONNIERS,Rue des Amidonniers,31000.0,TOULOUSE,Non,Non,Oui,Non,Oui,Oui,Oui,Non,43.606332, 1.422301
+retraite sportive,ASTORS - Association Toulousaine de la Retraite Sportive,,Lalande,Nouveau Complexe Municipal,Centre d'animation Lalande,Avenue de Fronton,31200.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Oui,Non,43.645455, 1.4332
+rugby,TOULOUSE FEMINA SPORT,,,Collège de Cautelauze,Collège de Cantelauze,,31470.0,Fonsorbes,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.565192, 1.296042
+sauvetage et secourisme,CLUB DE SAUVETAGE TOULOUSAIN,,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PISCINE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.536958, 1.470415
+SHINTAIDO/KENKO TAISO,ASSOCIATION ALIZARINE,shintaidotoulouse.wordpress.com,La Fourguette,COMPLEXE SPORTIF DE GIRONIS,GYMNASE GIRONIS,Rue de Gironis,31100.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.619623, 1.4433129999999998
+SHINTAIDO/KENKO TAISO,ASSOCIATION ALIZARINE,shintaidotoulouse.wordpress.com,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.629916, 1.4538959999999999
+DANSE SUR GLACE,TOULOUSE SPORTS DE GLACE,www.tsgpatinage.com,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PATINOIRE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+VOILE,TOAC section VOILE,toac.voile.free.fr/,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+YOGA,BALMA SAINT EXUPERY 31,www.bse31.com,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+ATHLETISME ADAPTE (EN STADE),ASPTT section ATHLETISME,www.toulouse.asptt.com,Ginestous,ZONE RECREATIVE DE SESQUIERES,PISTE SESQUIERES,Chemin de Fenouillet,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.608715, 1.475931
+BOJUTSU,ASSOCIATION ALIZARINE,shintaidotoulouse.wordpress.com,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.629916, 1.4538959999999999
+BOWLING,BOWLERS TOULOUSAINS,,Minimes,COMPLEXE PRIVÉ,Bowling des Minimes,Avenue des Minimes,31200.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.58892, 1.476583
+CAPOEIRA,ASSOCIATION CAPOEIRAGEM,www.capoeiragem.fr,Bonnefoy,DOJO ABC,DOJO ABC,Rue du Docteur Ferdinand Gendre,,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+VOL LIBRE,AEROCLUB TOULOUSE MIDI PYRENEES,www.actmp.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.609568, 1.497847
+AVIRON,EMULATION NAUTIQUE DE TOULOUSE,www.aviron-tennis.fr,Ramier,COMPLEXE PRIVÉ,Emulation Nautique de Toulouse,Allée Alfred Mayssonnie,31400.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.590233, 1.436469
+BASKET-BALL,TOULOUSE METROPOLE BASKET,www.baskettlfb.com/toulouse/,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+quilles de huit,S. Quilles de 8 Toulouse,,Ginestous,ZONE RECREATIVE DE SESQUIERES,BOULODROME SESQUIERES,Chemin de Fenouillet,31200.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.652951, 1.498424
+CYCLISME SUR ROUTE,TOAC section CYCLISME,toac.cyclisme.free.fr/,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.693459, 1.268659
+gymnastique volontaire,ASPTT section GYMNASTIQUE VOLONTAIRE,www.toulouse.asptt.com,,COMPLEXE PRIVÉ,Salle Satgé,,31770.0,Colomiers,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+gymnastique volontaire,GYM PAPUS FORM,,Papus,Complexe Papus,Salle Papus,Allée de Guyenne,31100.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.59637, 1.4316339999999999
+nage avec palmes,TOULOUSE OLYMPIQUE PALME,,Papus,GROUPE SCOLAIRE JACQUIER,PISCINE PAPUS,Allée de Guyenne,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.852081, 1.22656
+plongée,CSA DU 3°RMAT section PLONGEE,,,Extérieurs de Toulouse,Port de Banyuls sur Mer,,,A Banyuls sur Mer,Non,Non,Non,Non,Non,Oui,Non,Non,43.964092, 1.427442
+FOOTBALL,ETOILE SPORTIVE SAINT SIMON,www.saintsimonfoot.fr,Saint Simon,EQUIPEMENTS PUBLICS ST SIMON,STADE MARCEL SARCOS,Chemin de Liffard,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.563793, 1.37747
+FOOTBALL,JEUNESSE SPORTIVE DES PRADETTES,www.jstpradettes.com,Les Pradettes,ENSEMBLE MARCEL CERDAN,TERRAIN DE FOOTBALL STABILISE MARCEL CERDAN,Chemin de la Cépière,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.586847, 1.399413
+FOOTBALL,RODEO FOOTBALL CLUB,,Roseraie,EQUIPEMENT QUARTIER AMOUROUX,TERRAIN DE SPORT CHE MICHOUN,Rue William et Catherine Booth,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.6276, 1.4706169999999998
+éveil à la gym,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Oui,Oui,Non,Non,Non,Non,Non,Non,43.608901, 1.441787
+ATHLETISME ADAPTE (EN STADE),ASMTH HANDICAP DEFI - Association Sportive Muret Toulouse Handisport,www.handicapdefi.com,Ginestous,ZONE RECREATIVE DE SESQUIERES,PISTE SESQUIERES,Chemin de Fenouillet,31200.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Oui,43.58443, 1.381991
+JUDO ADAPTE,JUDO TOULOUSE CROIX DAURADE,jtcd.free.fr,Croix Daurade,GROUPE SCOLAIRE LAPUJADE,GYMNASE LAPUJADE,Route d' Albi,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.635127, 1.463877
+hochey sur gazon,TUC Section HOCKEY SUR GAZON,www.tuc.asso.fr,Juncasse - Argoulets,LES ARGOULETS,TERRAIN DE FOOTBALL ENGAZONNE ARGOULETS,Rue de Rabastens,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.589745, 1.4295879999999999
+hockey sur glace,TOULOUSE BLAGNAC HOCKEY CLUB (LES BELOUGAS),www.tbhc.fr,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PATINOIRE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Non,Non,,
+JUDO,DOJOTONIC,www.dojotonic.com,Les Chalets,COMPLEXE PRIVÉ,Espace Tonic,Boulevard Matabiau,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.61494, 1.444684
+JUDO,UNION SPORTIVE PONT DES DEMOISELLES,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+marche,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+ESCALADE,ESCAPADE CLUB,escapadeclub.net,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+AQUAGYM,TOULOUSE NAT SYNCHRO,www.toulouse-natsynchro.fr,Bellefontaine,ALBAN MINVILLE,PISCINE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.608085, 1.426837
+éveil aquatique,BEBES DAUPHINS TOULOUSAINS,www.bbdt31.org,Sept Deniers,GROUPE SCOLAIRE DES 7 DENIERS,PISCINE SEPT DENIERS,Route de Blagnac,31200.0,TOULOUSE,Oui,Oui,Non,Non,Non,Non,Non,Non,43.609495, 1.426012
+NATATION,TOAC NATATION,www.toacnatation.org,,,,,,,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+PATINAGE ARTISTIQUE A ROULETTES,ART ROLL'ICE TOULOUSE,www.artrollicetoulouse.com,,COMPLEXE HORS TOULOUSE,HORS TOULOUSE,,,HORS TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+pétanque,LARDENNE PETANQUE CLUB,,Lardenne,EQUIPEMENTS QUARTIER LARDENNE,BOULODROME LARDENNE,Chemin de Rocamadour,31100.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.588947, 1.377681
+pétanque,PETANQUE CLUB LEON VIALA,,Jules Julien,ENSEMBLE SOCIAL JULES JULIEN,BOULODROME LEON VIALA,Avenue de Rangueil,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.573506, 1.459086
+hockey,TOULOUSE ROLLER HOCKEY CLUB LES HOCKLINES,www.hocklines.free.fr,,ZONE DE LA RAMEE,GYMNASE LA RAMEE,,31170.0,TOURNEFEUILLE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.583911, 1.342531
+BOXE FRANCAISE,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Sept Deniers,Complexe du TOAC,Gymnase Emile Dewoitine,Chemin de Garric,31200.0,Toulouse,Non,Non,Non,Non,Non,Oui,Non,Non,43.620162, 1.408135
+ski alpin,ASSOCIATION PYRENEES CLUB,www.pyrenees-club.asso.fr,,Extérieurs de Toulouse,Les Alpes,,,Dans les Alpes,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+tennis de table,CLUB TOULOUSAIN DU SPORT ADAPTE,,Mirail Université,COSEC MIRAIL,COSEC DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.616859, 1.421328
+tae kwon do,ASPTT section TAEKWONDO,www.toulouse.asptt.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+tir sportif,A S MACCABI TOULOUSE,www.maccabitoulouse.com,,COMPLEXE PRIVÉ,Stand de la Forêt,,31660.0,Bessières,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+tir à l'arc,TAC - Toulouse Athlétic Club,,La Fourguette,COMPLEXE SPORTIF DE GIRONIS,GYMNASE GIRONIS,Rue de Gironis,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.601379, 1.393378
+VOLLEY BALL,ASSOCIATION SPORTIVE TOULOUSE LARDENNE,lardenneac.site.voila.fr,,PETIT CAPITOLE,GYMNASE LARDENNE,,31100.0,TOULOUSE,Non,Non,Oui,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+AIKIDO,CETAM - Centre d'Etudes Toulousain des Arts Martiaux,,,,,,,,Non,Non,Non,Non,Oui,Oui,Non,Non,43.604268, 1.441019
+BASKET-BALL,TOULOUSE BASKET CLUB,www.toulouse-basket-club.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.606578999999996, 1.451622
+BOWLING,ASPTT section BOWLING,www.toulouse.asptt.com,Gramont,COMPLEXE PRIVÉ,Bowling de Gramont,Chemin de Gabardie,31500.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.640724, 1.482143
+quilles de huit,SPORT QUILLES TOULOUSAIN,,Ginestous,ZONE RECREATIVE DE SESQUIERES,BOULODROME SESQUIERES,Chemin de Fenouillet,31200.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.647997, 1.414089
+DANSE AFRICAINE,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.573964, 1.48466
+danses artistiques,CENTRE DE DANSE JAMES CARLES,www.jamescarles.com,Amidonniers,COMPLEXE PRIVÉ,Centre de danse James Carles,Rue des Amidonniers,31000.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.606332, 1.422301
+équitation,ASSOCIATION CHEVAL GARONNE,chevalgaronne.com,Ginestous,COMPLEXE PRIVÉ,Association Cheval Garonne,Chemin de Ginestous,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.638203, 1.410371
+équitation,CENTRE EQUESTRE DE L'ECOLE NATIONALE VETERINAIRE DE TOULOUSE,centre-equestre-veto.envt.fr/spip/,Lardenne,COMPLEXE PRIVÉ,Ecole Nationale Vétérinaire de Toulouse,Chemin des Capelles,31300.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Non,Oui,,
+FOOTBALL,TROPIK 'CLUB TOULOUSE,www.tropikfc.fr,Casselardit,RESERVE FONCIERE CARTOUCHERIE,TERRAIN DE SPORT CARTOUCHERIE,Avenue Raymond Badiou,31300.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Non,43.573375, 1.4882119999999999
+football féminin,TFC - Toulouse Football Club,www.tfc.info,Ramier,PARC DES SPORTS,STADIUM,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.583959, 1.436448
+gymnastique forme et loisirs,AVENIR ETIENNE BILLIERES,,Les Pradettes,ENSEMBLE MARCEL CERDAN,COSEC MARCEL CERDAN,Chemin de la Cépière,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.551059, 1.274041
+gymnastique rytmique,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.608901, 1.441787
+BASKET-BALL,TOULOUSE INVALIDE CLUB,tlseic.free.fr,Minimes,STADE DES MINIMES,GYMNASE MINIMES ARNAUNE,Avenue Frédéric Estèbe,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,43.580039, 1.5160930000000001
+JUDO ADAPTE,TOULOUSE JUDO,www.toulousejudo.com,Saint Simon,Nouveau Complexe Municipal,Centre d'animation Saint Simon,Chemin de Liffard,31100.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.60969, 1.44913
+TORBALL,SAKURA CLUB TOULOUSAIN,asct.toulouse.free.fr,Minimes,GR SCOL PIERRE ET MARIE CURIE,GYMNASE PIERRE ET MARIE CURIE,Rue de la Jeunesse,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.621063, 1.442643
+JUDO,BALMA SAINT EXUPERY 31,www.bse31.com,Pont des Demoiselles,COMPLEXE PRIVÉ,Balma Saint-Exupéry 31,Avenue Antoine de Saint Exupéry,31400.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.583177, 1.471575
+kendo,TOULOUSE JUDO,www.touloujudo.com,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+karaté,FRANCE SHOTOKAN TOULOUSE,fsktoulouse.ifrance.com,Roseraie,COMPLEXE PRIVÉ,Dojo de la Roseraie,Chemin de Nicol,31200.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.602587, 1.437577
+karaté,SHITODENKAN KARATE CLUB,www.shitodenkan.fr.tc,Saint Michel,COLLEGE EMILE ZOLA,Gymnase Emile Zola,Rue Jean Pierre Blanchard,31400.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.76446, 1.7594319999999999
+ESCALADE,ASPTT GRAND TOULOUSE OMNISPORT,www.toulouse.asptt.com,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+AQUAGYM,TOULOUSE ACTIVITE PRE ET POSTNATALE,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+retraite sportive,OSSSQUART Objectif Santé Seniors Sports Quartier Arènes Romaines,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+sambo,Judo Club Pradettes,judopradettes.free.fr/index,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.578802, 1.383944
+ski alpin,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+gymnastique artistique,ETOILE GYMNIQUE DE COLOMIERS,etoilegymnique.fr,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.612602, 1.335509
+BALLET SUR GLACE,TOULOUSE CLUB DE PATINAGE,toulouseclubpatinage.com,Juncasse - Argoulets,LES ARGOULETS,PATINOIRE FRATERNITE,Avenue de l' Hers,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.492469, 1.542317
+patinage artistique,TOULOUSE SPORTS DE GLACE,www.tsgpatinage.com,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PATINOIRE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+tae kwon do,TOULOUSE CLUB MODERN SPORT,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Non,43.656548, 1.4751319999999999
+taiso,TSUBAKI DOJO TOULOUSE KARATE,www.tsubakidojo.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.596669, 1.433897
+tennis,STADE TOULOUSAIN section TENNIS,stadetoulousain-tennis.asso.fr,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+tennis,TAC - Toulouse Athlétic Club,tactennisclub.fr.st,La Fourguette,Stade du TAC,Stade de Gironis,Rue de Gironis,31100.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.564802, 1.414267
+duathlon et triathlon,TOULOUSE TRIATHLON,www.toulouse-tri.com,Ramier,PARC DES SPORTS,PISCINE NAKACHE,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.627001, 1.467113
+VOLLEY BALL,SPACER'S TOAC-TUC VOLLEY-BALL,www.spacerstoulouse.fr,Barrière de Paris,ENSEMBLE SCOLAIRE TLSE LAUTREC,GYMNASE TOULOUSE LAUTREC,Impasse Barthe,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.609004, 1.438261
+AEROMODELISME,ASSOCIATION SPORTIVE AIR FRANCE,www.acaf-toulouse.com,,COMPLEXE PRIVÉ,Aérodrome de Lasbordes,,31130.0,Balma,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.609568, 1.497847
+AEROMODELISME,L'AILE OU LA CUISSE,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+ATHLETISME hors stade,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.615771, 1.470962
+BADMINTON,VOLANT CLUB TOULOUSAIN,vct.volor.org,Casselardit,RESERVE FONCIERE CARTOUCHERIE,GYMNASE PIERRE MONTANE,Avenue Raymond Badiou,31300.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.599211, 1.408358
+BOJUTSU,ASSOCIATION ALIZARINE,shintaidotoulouse.wordpress.com,La Fourguette,COMPLEXE SPORTIF DE GIRONIS,GYMNASE GIRONIS,Rue de Gironis,31100.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.619623, 1.4433129999999998
+COURSE A PIED,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.615771, 1.470962
+DANSE DE SALON / DANSE PAR COUPLES,VIRE ET VOLTE,www.virevolte.fr,Les Pradettes,COMPLEXE PRIVÉ,Maison Paroissiale,Chemin des Pradettes,31100.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.578886, 1.387705
+FOOTBALL,ASSOCIATION SPORTIVE TOULOUSE MIRAIL FOOTBALL,,Bellefontaine,STADE CANTO LAOUZETTO,STADE CANTO LAOUZETTO,Rue de la Tourasse,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.562555, 1.393246
+FOOTBALL,ASSOCIATION SPORTIVE TOULOUSE MIRAIL FOOTBALL,,Bellefontaine,STADE CANTO LAOUZETTO,TERRAIN ANNEXE CANTO LAOUZETTO,Rue de la Tourasse,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.562555, 1.393246
+FOOT EN SALLE,TOULOUSE LALANDE FUTSAL,,Lalande,COLLEGE LALANDE,GYMNASE LALANDE,Chemin du Séminaire,31200.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Non,43.640025, 1.435298
+gymnastique acrobatique,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.594967, 1.444373
+Football adapté,ASSOCIATION SPORTIVE FAOURETTE - SPORT ADAPTE,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+JUDO ADAPTE,CROIX DE PIERRE JUDO,croixdepierrejudo.free.fr,,,,,,,Non,Oui,Oui,Oui,Non,Oui,Non,Non,,
+JUDO ADAPTE,Judo Club Pradettes,judopradettes.free.fr/index,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.578802, 1.383944
+JUDO ADAPTE,TOULOUSE JUDO,www.toulousejudo.com,Juncasse - Argoulets,LES ARGOULETS,MAISON DU JUDO ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.60969, 1.44913
+karaté,CLUB DE KARATE - BOXE FRANCAISE DES PRADETTES,www.ckp.neuf.fr,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.578802, 1.383944
+karaté,TSUBAKI DOJO TOULOUSE KARATE,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.596669, 1.433897
+kung-Fu,ROYAL BOXING,www.royalnaresuanboxing.com,Patte d'Oie,COMPLEXE PRIVÉ,Royal Naresuan Boxing,Rue Adolphe Coll,31300.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.598025, 1.424785
+NATATION,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,Rangueil - CHR - Facultés,ZONE VERTE DE PECH DAVID,PISCINE PECH DAVID,Chemin des côtes de Pech David,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.589766, 1.415235
+pétanque,PETANQUE CLUB COURS DILLON,,Saint Cyprien,COURS DILLON,BOULODROME CAZABONNE,Cours Dillon,31300.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.593213, 1.435098
+rugby à XIII,TOULOUSE JULES JULIEN BRONCOS XIII,ustjj13@free.fr,Empalot,ENSEMBLE ANDRE DASTE,STADE CORBARIEU,Avenue de Lattre de Tassigny,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.579532, 1.43726
+tae kwon do,TOULOUSE CLUB TAEKWONDO 31,www.tct31.fr,Faourette,ENSEMBLE LA FAOURETTE,GYMNASE LA FAOURETTE,Rue Paul Lambert,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.578277, 1.4145189999999999
+taï chi chuan/Qi Gong,DOJO EXPRESSION,www.dojo-expression.com,Château de L'Hers,COMPLEXE PRIVÉ,Dojo Expression,Avenue Raymond Naves,31500.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.597682, 1.474807
+tennis,ANCELY TENNIS CLUB,tennis.ancely.free.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+CAPOEIRA,ASSOCIATION CAPOEIRAGEM,www.capoeiragem.fr,Sauzelong - Rangueil,Nouveau Complexe Municipal,Maison de quartier Rangueil,Rue Claude de Forbin,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+BASKET-BALL,ASSOCIATION SPORTIVE TOULOUSE LARDENNE,lardenneac.site.voila.fr,,PETIT CAPITOLE,GYMNASE LARDENNE,,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+BOWLING,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,bowling.toac.free.fr,Gramont,COMPLEXE PRIVÉ,Bowling de Gramont,Chemin de Gabardie,31500.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.621471, 1.3408769999999999
+nage avec palmes,TOULOUSE OLYMPIQUE PALME,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.852747, 1.2356289999999999
+plongée,PALMES AQUADEMIQUES,palmes.aquademiques.free.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.593607, 1.462219
+FOOTBALL,ASSOCIATION SPORTIVE DES IZARDS,,Les Izards,TERRAIN DE SPORT DES VIOLETTES,TERRAIN DE SPORT DES VIOLETTES,Rue des Violettes,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.641739, 1.44387
+FOOTBALL,TOULOUSE FONTAINES CLUB,,,ZONE DE LA RAMEE,TERRAIN D'HONNEUR LA RAMEE,,31170.0,TOURNEFEUILLE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+gymnastique acrobatique,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.608901, 1.441787
+gymnastique forme et loisirs,AVENIR ETIENNE BILLIERES,,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.565192, 1.296042
+JUDO,JUDO TOULOUSE CROIX DAURADE,www.jtcd.free.fr,Croix Daurade,GROUPE SCOLAIRE LAPUJADE,GYMNASE LAPUJADE,Route d' Albi,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.635127, 1.463877
+karaté,CLUB SHOTOKAN TOULOUSAIN,clubshotokan.perso.neuf.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.629916, 1.4538959999999999
+karaté,FRANCE SHOTOKAN TOULOUSE,fsktoulouse.ifrance.com,Mirail Université,COSEC MIRAIL,COSEC DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,,
+ESCALADE,LOISIRS ET MONTAGNE,,,,,,,,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+NATATION,STADE TOULOUSAIN NATATION,www.stadetoulousainnatation.fr,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+pétanque,PETANQUE HERACLES,,Compans,BATIMENTS SUR DOMAINE PUBLIC,BOULODROME PL HERACLES,Square de l' Héraclès,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.594918, 1.453663
+pétanque,REX PETANQUE CLUB,,Marengo Jolimont,TERRAIN 118 RUE DE PERIOLE,BOULODROME 118 RUE DE PERIOLE,Rue de Périole,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.617551, 1.459663
+pétanque,TEC - Toulouse Electrogaz Club,,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,,
+hockey,Roller Club Toulousain,rct.fr.fm,,ZONE DE LA RAMEE,GYMNASE LA RAMEE,,31170.0,TOURNEFEUILLE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+savate,TOULOUSE MULTI BOXE,tmboxe.free.fr,Faourette,ENSEMBLE LA FAOURETTE,GYMNASE LA FAOURETTE,Rue Paul Lambert,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.593607, 1.462219
+ski alpin,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+NATATION,CLUB TOULOUSAIN DU SPORT ADAPTE,,Ramier,PARC DES SPORTS,PISCINE NAKACHE,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.583959, 1.436448
+BALLET SUR GLACE,TOULOUSE SPORTS DE GLACE,www.tsgpatinage.com,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PATINOIRE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,,
+DANSE SUR GLACE,TOULOUSE CLUB DE PATINAGE,toulouseclubpatinage.com,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PATINOIRE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Non,Non,Non,,
+Qi Gong,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.573964, 1.48466
+Qi Gong,TAM TAO TOULOUSE,www.tamtao.free.fr - laurent-chateau@club-internet.fr,Pont des Demoiselles,GROUPE SCOLAIRE ANATOLE FRANCE,GYMNASE ANATOLE FRANCE,Boulevard de la Méditerranée,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.584701, 1.461953
+taï chi chuan/Qi Gong,LE DOJO,www.ledojo.com,Guilheméry,COMPLEXE PRIVÉ,Le Dojo,Boulevard de la Gare,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.605606, 1.457079
+Télémark,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+tennis,TOAC section TENNIS,www.club.fft.fr/toactennis,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+tir à l'arc,TOULOUSE SPORT ET NATURE,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.523585, 1.3405610000000001
+DANSE DE SALON / DANSE PAR COUPLES,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,La Terrasse,SALLE POLYVALENTE CORRAZE,SALLE POLYVALENTE CORRAZE,Rue Raymond Corraze,,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.573856, 1.486604
+DANSE DE SALON / DANSE PAR COUPLES,CLUB STUDIO DUO DANSES,www.studioduodanses.com,Croix Daurade,COMPLEXE PRIVÉ,club studio duo danses,Rue d' Avranches,,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.633079, 1.4660229999999999
+MODERN JAZZ,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+FOOTBALL,ASVEC Toulouse Mirail,,Reynerie,ENSEMBLE SPORT EDUCAT REYNERIE,COSEC REYNERIE,Cheminement Jean-François Lesueur,31100.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,,
+FOOTBALL,JUVENTUS DE PAPUS,,Papus,GROUPE SCOLAIRE JACQUIER,TERRAIN DE SPORT MERLETTES,Allée de Guyenne,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.57593, 1.412878
+FOOTBALL,TAC section FOOTBALL,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.583911, 1.342531
+FOOTBALL,TOULOUSE EMPALOT FOOTBALL CLUB,,Empalot,ENSEMBLE ANDRE DASTE,STADE CORBARIEU,Avenue de Lattre de Tassigny,31400.0,TOULOUSE,Non,Non,Oui,Oui,Non,Non,Non,Non,43.579532, 1.43726
+football féminin,TFC - Toulouse Football Club,www.tfc.info,,ZONE DE LA RAMEE,TERRAIN 1 LA RAMEE,,31170.0,TOURNEFEUILLE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+gymnastique artistique,AVENIR ETIENNE BILLIERES,shirka2@free.fr,Fontaine Lestang,SALLE CHRISTINE RUMEAU,SALLE CHRISTINE RUMEAU,Rue des Turres,,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.557832, 1.259208
+CYCLISME SUR ROUTE,TOULOUSE VELO CLUB,toulouseveloclub.free.fr,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.693241, 1.432396
+JUDO ADAPTE,TOULOUSE JUDO,www.toulousejudo.com,Lardenne,ECOLE MIXTE 1 DE LARDENNE,Gymnase de Lardenne,Chemin de Rocamadour,31100.0,Toulouse,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.606578999999996, 1.451622
+JUDO,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Sept Deniers,Complexe du TOAC,Fronton du TOAC,Chemin de Garric,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.620162, 1.408135
+karaté,ARTS MARTIAUX TOULOUSE MIRAIL,www.amtm-toulouse-karate.fr,Bonnefoy,Nouveau Complexe Municipal,Espace Bonnefoy,Rue du Faubourg Bonnefoy,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.620741, 1.457516
+karaté,RDAM - Recherche et Dévéloppement en Art Martial,www.monkarate.com,,,,,,,Non,Oui,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+kung-Fu,ECOLE LONG TAO,www.longtao,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.609568, 1.497847
+BOXE THAILANDAISE / MUAY THAI,THAI BOXING CLUB,www.tbctoulouse.com,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,43.572931, 1.463274
+AQUAGYM,TOAC NATATION,www.toacnatation.org,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+NATATION,LES DAUPHINS DU TOEC,www.lesdauphinsdutoec.com,Ramier,PARC DES SPORTS,PISCINE NAKACHE,Allée Gabriel Biénès,31400.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.60593, 1.453138
+OMNISPORT,FOYER ETIENNE BILLIERES,perso.orange.fr/fep.etiennebillieres,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+pelote basque,TAC section PELOTE BASQUE,,Juncasse - Argoulets,LES ARGOULETS,PELOTE BASQUE ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.577522, 1.455107
+pétanque,AMICALE SPORTIVE DES RAMIERS,augusteriff@gmail.fr,La Fourguette,Nouveau Complexe Municipal,Centre de loisirs Gironis,Rue de Gironis,,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.564802, 1.414267
+pétanque,PETANQUE SAINT AUBIN,,,,,,,,Non,Non,Non,Non,Non,Non,Oui,Non,43.604268, 1.441019
+rugby,UFAR - Union Française des Anciens du Rugby,www.ufar.biz,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,,
+ski alpin,ASPTT section SKI,www.toulouse.asptt.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+ski alpin,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,,Extérieurs de Toulouse,Les Alpes,,,Dans les Alpes,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+DANSE SUR GLACE,TOULOUSE CLUB DE PATINAGE,toulouseclubpatinage.com,Juncasse - Argoulets,LES ARGOULETS,PATINOIRE FRATERNITE,Avenue de l' Hers,31500.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Non,Non,Non,43.492469, 1.542317
+patinage artistique,TOULOUSE CLUB DE PATINAGE,toulouseclubpatinage.com,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PATINOIRE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,,
+tennis,ASCGMP - ASSOCIATION SPORTIVE & CULTURELLE DE LA GENDARMERIE MIDI PYRENEES - SECTION COURREGE,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+tennis de table,TOAC section TENNIS DE TABLE,www.toac-tt.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.604268, 1.441019
+BALL-TRAP,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,,COMPLEXE PRIVÉ,Commune de Saiguède,,31470.0,Saiguède,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+BASKET-BALL,ASTRO BASKET CLUB,www.astrobasket.net,Minimes,STADE DES MINIMES,GYMNASE MINIMES ARNAUNE,Avenue Frédéric Estèbe,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.621562, 1.436936
+BOWLING,SPORT QUILLES TOULOUSAIN,,,COMPLEXE PRIVÉ,Bowling de Labège,,31670.0,Labège,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+VTT,TOULOUSE VELO CLUB,toulouseveloclub.free.fr,,,,,,,Non,Non,Oui,Oui,Non,Oui,Oui,Oui,43.693241, 1.432396
+CAPOEIRA,MULEQUE DANADO,www.capoeiragerais-toulouse.com,,,,,,,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+AVIRON,TUC Section AVIRON,www.club-tucaviron.free.fr,Ramier,Base Nautique André Dandine,Base nautique André Dandine,Allée Fernand Jourdant,31400.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.586849, 1.435147
+BADMINTON,TUC OMNISPORTS- Toulouse Université Club,www.tucbad.org,Rangueil - CHR - Facultés,COMPLEXE PRIVÉ,Gymnase du Lycée Bellevue,Route de Narbonne,31400.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.563401999999996, 1.460348
+BASKET-BALL,ASVEC Toulouse Mirail,,Bellefontaine,ALBAN MINVILLE,GYMNASE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.563717, 1.403633
+BASKET-BALL,ETOILE SPORTIVE TOULOUSE CASSELARDIT,,La Cépière,ENSEMBLE LA CEPIERE,GYMNASE LA CEPIERE,Route de Saint Simon,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.611048, 1.306474
+BILLARD,ABC Toulouse,,Matabiau,COMPLEXE PRIVÉ,Billard le Conti,Rue Matabiau,31000.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.6498, 1.483198
+BOWLING,BOWLING CLUB 31,,Gramont,COMPLEXE PRIVÉ,Bowling de Gramont,Chemin de Gabardie,31500.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.579352, 1.5512139999999999
+BOWLING,TOULOUSE BOWLING CLUB,,Gramont,COMPLEXE PRIVÉ,Bowling de Gramont,Chemin de Gabardie,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.562542, 1.365578
+DANSE ORIENTALE,RYTHMES D'ORIENT,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.604268, 1.441019
+gymnastique volontaire,ASPTT section GYMNASTIQUE VOLONTAIRE,www.toulouse.asptt.com,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.606578999999996, 1.451622
+FOOTBALL,ASSOCIATION SPORTIVE DE LA FAOURETTE,fc-faourette.footeo.com,Faourette,ENSEMBLE LA FAOURETTE,STADE LA FAOURETTE,Rue Paul Lambert,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,43.578277, 1.4145189999999999
+JUDO ADAPTE,BALMA SAINT EXUPERY 31,www.bse31.com,Pont des Demoiselles,COMPLEXE PRIVÉ,Balma Saint-Exupéry 31,Avenue Antoine de Saint Exupéry,31400.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.583177, 1.471575
+ESCALADE,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.604268, 1.441019
+randonnée,ASPTT GRAND TOULOUSE OMNISPORT,perso.wanadoo.fr/d.hoizey,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+randonnée,CADETS DE TOULOUSE,www.kdtoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+ski alpin,CADETS DE TOULOUSE,www.kdtoulouse.free.fr,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+NATATION SYNCHRONISEE,TOULOUSE NAT SYNCHRO,www.toulouse-natsynchro.fr,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PISCINE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.608101, 1.420375
+OMNISPORT,ASPTT GRAND TOULOUSE OMNISPORT,www.toulouse.asptt.com,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+pétanque,CLUB BOULISTE BONNEFOY RAYNAL,,Marengo Jolimont,ENSEMBLE BONNEFOY,BOULODROME BONNEFOY,Rue de Périole,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Oui,Non,43.617551, 1.459663
+pétanque,CLUB BOULISTE SOUPETARD,,Juncasse - Argoulets,LES ARGOULETS,BOULODROME SOUPETARD,Rue Louis Plana,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.613511, 1.476561
+pétanque,LOU BOSC PETANQUE CLUB,,Mirail Université,COSEC MIRAIL,BOULODROME LOU BOSC RUE LAULANIE,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.581181, 1.400522
+pétanque,PETANQUE DE LA DIGUE,,Saint Cyprien,COURS DILLON,BOULODROME DE LA DIGUE FER A CHEVAL,Cours Dillon,31300.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.593213, 1.435098
+pétanque,RASPAIL PETANQUE CLUB COTE PAVEE,,Pont des Demoiselles,GROUPE SCOLAIRE COURREGE,BOULODROME EMILE LAFONT,Avenue Jean Rieux,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.589777, 1.470622
+pétanque,SPORT OLYMPIQUE BONNEFOY,,Roseraie,ARCHIVES MUNICIPALES,BOULODROME PERIOLE,Rue des Archives,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.623643, 1.461253
+kick boxing,ROYAL BOXING,www.royalnaresuanboxing.com,Patte d'Oie,COMPLEXE PRIVÉ,Royal Naresuan Boxing,Rue Adolphe Coll,31300.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.598025, 1.424785
+SPORT EN MILIEU RURAL,BEST - Bien Etre par le Sport pour Tous,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.642327, 1.524252
+tennis,A S MACCABI TOULOUSE,www.maccabitoulouse.com,Juncasse - Argoulets,LES ARGOULETS,TENNIS ARGOULETS,Rue de Rabastens,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.600443, 1.446392
+tennis,TOEC TENNIS,,Casselardit,STADE DU TOEC,STADE DU TOEC,Rue Ernest Dufer,31300.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.597143, 1.403025
+tennis de table,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,ascmmontaudran.free.fr/,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.573964, 1.48466
+ULM et voltige,AVAT - Association Vélivole et Aéronautique Toulousaine,avat.free.fr,,COMPLEXE PRIVÉ,Aérodrome de Bourg Saint Bernard,,31570.0,Bourg Saint Bernard,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.601522, 1.712288
+VOLLEY BALL,ASSOCIATION STADE TOULOUSAIN RUGBY,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.75104, 1.369518
+YOGA,YOGA POUR TOUS TOULOUSE,www.yogapourtous.fr,Sauzelong - Rangueil,COMPLEXE PRIVÉ,Salle de Judo Saouzeloung,Rue Jeanne Marvig,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.579592, 1.4619149999999999
+VIET VO DAO,TAM TAO TOULOUSE,www.tamtao.free.fr - laurent-chateau@club-internet.fr,Pont des Demoiselles,GROUPE SCOLAIRE ANATOLE FRANCE,GYMNASE ANATOLE FRANCE,Boulevard de la Méditerranée,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.584701, 1.461953
+AEROMODELISME,AERO CLUB LES AILES TOULOUSAINES,ailes.toulousaines.free.fr/,,COMPLEXE PRIVÉ,Aérodrome de Lasbordes,,31130.0,Balma,Non,Non,Non,Non,Non,Oui,Non,Non,43.609568, 1.497847
+AIKIDO,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.605744, 1.465466
+ATHLETISME ADAPTE (EN STADE),ASPTT section ATHLETISME,www.toulouse.asptt.com,Rangueil - CHR - Facultés,ZONE VERTE DE PECH DAVID,AIRE DE JEUX PECH DAVID,Chemin des côtes de Pech David,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.589766, 1.415235
+BADMINTON,ASSOCIATION SPORTIVE TOULOUSE MIRAIL BADMINTON,www.astmb.fr,Bellefontaine,ALBAN MINVILLE,GYMNASE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.619471, 1.3027389999999999
+CYCLOTOURISME,ASPTT section CYCLOTOURISME,www.toulouse.asptt.com,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+DANSE DE SALON / DANSE PAR COUPLES,ASPTT section DANSE DE SALON,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+gymnastique volontaire,ANATOLE FRANCE - gymnastique volontaire,,Pont des Demoiselles,GROUPE SCOLAIRE ANATOLE FRANCE,GYMNASE ANATOLE FRANCE,Boulevard de la Méditerranée,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.584701, 1.461953
+gymnastique volontaire,LA MENUISIERE gymnastique volontaire,,Juncasse - Argoulets,LES ARGOULETS,MAISON DU JUDO ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.64429, 1.446693
+plongée,C.O.P.S,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+plongée,EVASION SOUS-MARINE,club.esm@laposte.net,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.4326, 1.442968
+FOOTBALL,TOULOUSE FOOTBALL CROIX DAURADE,,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+full contact,FULL CONTACT LEO LAGRANGE,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.562897, 1.407587
+golf,GOLF DE TEOULA,www.golftoulouseteoula.com,,GOLF DU TEOULA,GOLF DU TEOULA,,31830.0,PLAISANCE DU TOUCH,Non,Oui,Oui,Non,Oui,Oui,Oui,Non,43.565192, 1.296042
+éveil à la gym,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Oui,Oui,Non,Non,Non,Non,Non,Non,43.615771, 1.470962
+gymnastique artistique,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Ramier,PARC DES SPORTS,SALLE DE SPORTS PARC DES SPORTS,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.60593, 1.453138
+MUSCULATION - HALTEROPHILIE,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+KENJUTSU,ASSOCIATION ALIZARINE,shintaidotoulouse.wordpress.com,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.629916, 1.4538959999999999
+éveil aquatique,BEBES DAUPHINS TOULOUSAINS,www.bbdt31.org,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Oui,Oui,Non,Non,Non,Non,Non,Non,43.607433, 1.453754
+pétanque,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,Montaudran Lespinet,PARC ALLALOUF ROUTE DE REVEL,BOULODROME JEAN DE NADAÏ,Rue Emile Lecrivain,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.576387, 1.483582
+randonnée Pédestre,RANDO PLAISIRS,www.Rando-Plaisirs.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.472573, 1.548378
+randonnée Pédestre,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,,Extérieurs de Toulouse,Routes de campagne,,,Routes de campagne,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.515078, 1.4978449999999999
+savate,ASVEC Toulouse Mirail,,Mirail Université,COSEC MIRAIL,COSEC DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,,
+BALLET SUR GLACE,TOULOUSE SPORTS DE GLACE,www.tsgpatinage.com,Juncasse - Argoulets,LES ARGOULETS,PATINOIRE FRATERNITE,Avenue de l' Hers,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,43.608324, 1.498483
+taï chi chuan/Qi Gong,DOUCEUR DE VIE,www.douceurdevie.com,Bonnefoy,Nouveau Complexe Municipal,Espace Bonnefoy,Rue du Faubourg Bonnefoy,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,,
+tennis,ASVEC Toulouse Mirail,,Bellefontaine,ENSEMBLE VALMY BELLEFONTAINE,TENNIS VALMY,Cheminement Guillaume et Joseph Bouton,31100.0,TOULOUSE,Non,Non,Oui,Oui,Non,Non,Non,Non,43.559134, 1.398651
+tennis,TCMS section TENNIS,tcms-tennis.clubeo.com,Juncasse - Argoulets,Complexe du TCMS,Stade Surcouf,Avenue de l' Hers,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.613425, 1.478851
+CAPOEIRA,CAPOEIRA GERAIS,capoeiragerais-toulouse.fr,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+VOL LIBRE,CLUB D'AEROMODELISME AIRBUS TOULOUSE,,Saint Martin du Touch,COMPLEXE PRIVÉ,Espace Loisirs Arts Culture Airbus France,Route de Bayonne,31300.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.554188, 1.3600780000000001
+BOWLING,BOWLERS TOULOUSAINS,,Montaudran Lespinet,COMPLEXE PRIVÉ,Bowling de Montaudran,Impasse Louise Labe,,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,,
+BOWLING,BOWLING CLUB 31,,Minimes,COMPLEXE PRIVÉ,Bowling des Minimes,Avenue des Minimes,31200.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.587673, 1.539048
+BOXE ANGLAISE,BOXING CLUB TOULOUSAIN,myspace.com/boxingclubtoulousain,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.608901, 1.441787
+VTT,ASPTT section VTT,www.toulouse.asptt.com,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+gymnastique volontaire,CLUB GYM VOLONTAIRE DE RANGUEIL,,Sauzelong - Rangueil,Nouveau Complexe Municipal,Maison de quartier Rangueil,Rue Claude de Forbin,31400.0,TOULOUSE,Non,Oui,Oui,Non,Non,Oui,Non,Non,43.575587, 1.462925
+équitation,IMPULSION,,,COMPLEXE PRIVÉ,Impulsion,,31130.0,Balma,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.609568, 1.497847
+golf,GOLF DE TOULOUSE SEILH,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.693868, 1.352994
+éveil à la gym,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Oui,Oui,Non,Non,Non,Non,Non,Non,43.594967, 1.444373
+handball,ETB - ENTENTE TUC BALMA,www.etbalma.com,Ramier,Stade Universitaire Daniel Faucher,Stade Universitaire Daniel Faucher,Allée du Professeur Camille Soula,31400.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.580038, 1.435198
+handball,TOULOUSE UNION HANDBALL,www.toulousehandball.com,La Cépière,ENSEMBLE LA CEPIERE,GYMNASE LA CEPIERE,Route de Saint Simon,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.609286, 1.458299
+JUDO ADAPTE,FJEP JUDO RANGUEIL,,Sauzelong - Rangueil,COMPLEXE PRIVÉ,Salle de Judo Saouzeloung,Rue Jeanne Marvig,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.579592, 1.4619149999999999
+JUDO ADAPTE,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,toacjudo@yahoo.fr,Sept Deniers,Complexe du TOAC,Fronton du TOAC,Chemin de Garric,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.620162, 1.408135
+JUDO ADAPTE,TOULOUSE JUDO,www.toulousejudo.com,Compans,COMPLEXE PRIVÉ,Ecole Falguière,Rue d' Artagnan,,Toulouse,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.607606, 1.43048
+JUDO ADAPTE,TOULOUSE MINIMES JU-JUTSU TRADITIONNEL,www.apbmp.org,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.609568, 1.497847
+karaté,KYOKEN KARATE,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+pétanque,AMICALE BOULISTE DES PRADETTES,andre.gaget@orange.fr,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,BOULODROME DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.578802, 1.383944
+pétanque,CLUB PETANQUE CROIX DAURADE,,Croix Daurade,ENSEMBLE CROIX DAURADE,BOULODROME COUVERT CROIX DAURADE,Rue Francis Lopez,31200.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.636286, 1.463419
+pétanque,CLUB PETANQUE LAPUJADE,,Croix Daurade,ENSEMBLE LAPUJADE,BOULODROME LAPUJADE BONNEFOY,Chemin de Lapujade,31200.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.62646, 1.455816
+roller,TOULOUSE ROLLER HOCKEY CLUB LES HOCKLINES,www.hocklines.free.fr,,ZONE DE LA RAMEE,GYMNASE LA RAMEE,,31170.0,TOURNEFEUILLE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.583911, 1.342531
+rugby,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,,Montaudran Lespinet,GROUPE SCOLAIRE MONTAUDRAN,TERRAIN DE SPORT MONTAUDRAN,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.573964, 1.48466
+rugby,FCTT - FOOTBALL CLUB TOAC TOEC,www.fcttrugby.com,Empalot,ENSEMBLE ANDRE DASTE,STADE CORBARIEU,Avenue de Lattre de Tassigny,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Non,Oui,Non,,
+Qi Gong,BALMA SAINT EXUPERY 31,www.bse31.com,Juncasse - Argoulets,LES ARGOULETS,MAISON DU JUDO ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.577522, 1.455107
+YOGA,CYSO - Cercle de Yoga du Sud Ouest,www.cyso-yoga.org,Les Pradettes,Nouveau Complexe Municipal,Maison de Quartier Les Pradettes,Rue Ferdinand de Lesseps,,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.578802, 1.383944
+AIKIDO,LE DOJO,www.ledojo.com,Guilheméry,COMPLEXE PRIVÉ,Le Dojo,Boulevard de la Gare,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.605606, 1.457079
+BADMINTON,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.615771, 1.470962
+BADMINTON,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Sept Deniers,Complexe du TOAC,Gymnase Emile Dewoitine,Chemin de Garric,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.620162, 1.408135
+BADMINTON,VOLANT CLUB TOULOUSAIN,vct.volor.org,Juncasse - Argoulets,LES ARGOULETS,GYMNASE DES ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.601177, 1.4184100000000002
+BASEBALL,STADE TOULOUSAIN section BASEBALL,www.toulousebaseball.com,Juncasse - Argoulets,LES ARGOULETS,TERRAIN DE BASE BALL ARGOULETS,Rue Louis Plana,31500.0,TOULOUSE,Oui,Non,Oui,Oui,Oui,Oui,Oui,Non,,
+BOWLING,ASSOCIATION SPORTIVE AIR FRANCE,www.asaf.sport.asso.fr,Montaudran Lespinet,COMPLEXE PRIVÉ,Bowling de Montaudran,Impasse Louise Labe,,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.56808, 1.496579
+gymnastique volontaire,JOLIMONT - gymnastique volontaire,,Marengo Jolimont,ENSEMBLE DES ACACIAS,GYMNASE DES ACACIAS,Rue de l' Obélisque,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Non,43.601438, 1.4538069999999998
+gymnastique forme et loisirs,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.608901, 1.441787
+BADMINTON,TOULOUSE INVALIDE CLUB,tlseic.free.fr,Minimes,STADE DES MINIMES,GYMNASE MINIMES ARNAUNE,Avenue Frédéric Estèbe,31200.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Oui,43.580039, 1.5160930000000001
+BASKET-BALL,ASMTH HANDICAP DEFI - Association Sportive Muret Toulouse Handisport,www.handicapdefi.com,Mirail Université,COSEC MIRAIL,COSEC DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.581181, 1.400522
+JUDO ADAPTE,TCMS section JUDO,tcmsjudo.over-blog.fr/,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+JUDO ADAPTE,TOULOUSE JUDO,www.toulousejudo.com,Reynerie,ENSEMBLE SPORT EDUCAT REYNERIE,COSEC REYNERIE,Cheminement Jean-François Lesueur,31100.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,,
+JUDO ADAPTE,TUC OMNISPORTS- Toulouse Université Club,www.,Rangueil - CHR - Facultés,Université de Rangueil,Gymnase de l'Université de Rangueil,Route de Narbonne,31400.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.52488, 1.4037519999999999
+JUDO,JUDO TOULOUSE CROIX DAURADE,www.jtcd.free.fr,Croix Daurade,,SALLE DE DANSE COMPLEXE SPORTIF FERNAND SASTRE,Rue Hubert Monloup,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.637216, 1.453581
+JUDO,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,Juncasse - Argoulets,Complexe du TCMS,Gymnase Surcouf,Avenue de l' Hers,31500.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.613425, 1.478851
+karaté,BALMA SAINT EXUPERY 31,www.bse31.com,Pont des Demoiselles,COMPLEXE PRIVÉ,Balma Saint-Exupéry 31,Avenue Antoine de Saint Exupéry,31400.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.583177, 1.471575
+karaté,TUC Section KARATE,www.tuc.asso.fr,,UFR Staps de Toulouse,UFR Staps de Toulouse,,,Toulouse-Armées,Non,Non,Non,Non,Non,Non,Non,Non,43.667997, 1.429367
+kung-Fu,BALMA SAINT EXUPERY 31,www.bse31.com,Juncasse - Argoulets,LES ARGOULETS,MAISON DU JUDO ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Non,Oui,Non,43.577522, 1.455107
+NIHON TAI-JITSU,SHAOLIN,shaolin-toulouse.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.609568, 1.497847
+randonnée,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.604268, 1.441019
+motocyclisme,TOULOUSE TRIAL CLUB,www.toulouse.trial.club.free.fr,Zones d'activités sud,PISTE MOTO ROUTIERE CANDIE,PISTE MOTOCYCLISTE DE CANDIE,Chemin de la Saudrune,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.635199, 1.454024
+NATATION,TAC - Toulouse Athlétic Club,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.633748, 1.4478300000000002
+pelote basque,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,Juncasse - Argoulets,Complexe du TCMS,Fronton Surcouf,Avenue de l' Hers,,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Non,43.608324, 1.498483
+pétanque,A.S. HLM RECOLLETS DASTE,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+pétanque,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+randonnée Pédestre,AMITIES LOISIRS,www.amities-loisirs.com,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Non,Non,Non,Oui,Non,Non,,
+kick boxing,ASCGMP - ASSOCIATION SPORTIVE & CULTURELLE DE LA GENDARMERIE MIDI PYRENEES - SECTION COURREGE,,,,,,,,Non,Non,Oui,Oui,Oui,Non,Non,Non,,
+spéléologie,GROUPE SPELEOLOGIQUE DE TOULOUSE,speleotoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+VOILE,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,,,,,,,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.642327, 1.524252
+parapente,LES TOILES DU SUD,lestoilesdusud.free.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+gymnastique volontaire,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Oui,Oui,Non,Non,Non,Oui,Oui,Non,43.615771, 1.470962
+gymnastique volontaire,PRADETTES - gymnastique volontaire,gv.pradettes.free.fr,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,43.578802, 1.383944
+escrime,TAC section ESCRIME,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+plongée,CLUB SUBAQUATIQUE TOULOUSAIN,csat.free.fr,,Extérieurs de Toulouse,Port de Banyuls sur Mer,,,A Banyuls sur Mer,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+plongée,FREESCALE AS PLONGEE,,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+FOOTBALL,A S MACCABI TOULOUSE,www.maccabitoulouse.com,Pont des Demoiselles,STADE PHILIPPE STRUXIANO,STADE PHILIPPE STRUXIANO,Avenue de Lespinet,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.59651, 1.441252
+FOOTBALL,ASSOCIATION SPORTIVE DES IZARDS,,Les Izards,STADE GEORGES RIGAL,STADE GEORGES RIGAL,Rue Raphaël,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.642774, 1.440821
+FOOTBALL,JEUNESSE SPORTIVE DES PRADETTES,www.jstpradettes.com,,ZONE DE LOISIRS DE LA MOUNEDE,TERRAIN ANNEXE ENGAZONNE LA MOUNEDE,,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+FOOTBALL,TFC - Toulouse Football Club,www.tfc.info,Ramier,PARC DES SPORTS,STADIUM,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+gymnastique acrobatique,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Ramier,PARC DES SPORTS,SALLE DE SPORTS PARC DES SPORTS,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.60593, 1.453138
+TRAMPOLINE,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.594967, 1.444373
+DANSE ADAPTEE,FAUVAL DANSE,fauvaldanse.fr,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.656176, 1.4842309999999999
+handbike,ASMTH HANDICAP DEFI - Association Sportive Muret Toulouse Handisport,www.handicapdefi.com,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+JUDO ADAPTE,DOJOTONIC,www.dojotonic.com,Les Chalets,COMPLEXE PRIVÉ,Espace Tonic,Boulevard Matabiau,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.61494, 1.444684
+JUDO ADAPTE,JUDO CLUB LANGUEDOCIEN,www.judojcltoulouse.free.fr,Minimes,GROUPE SCOLAIRE F ESTEBE,GYMNASE FREDERIC ESTEBE,Rue du Général Bourbaki,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,,
+JUDO ADAPTE,JUDO TOULOUSE CROIX DAURADE,jtcd.free.fr,Croix Daurade,,SALLE D'ARTS MARTIAUX COMPLEXE SPORTIF FERNAND SASTRE,Rue Hubert Monloup,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.637216, 1.453581
+JUDO ADAPTE,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.605744, 1.465466
+JUDO ADAPTE,SPORT ATHLETIQUE AUTERIVAIN - JUDO ADAPTE,judoauterive-forumpro.fr,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.350074, 1.4737879999999999
+karaté,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.605744, 1.465466
+kung-Fu,SHAOLIN,,Marengo Jolimont,COMPLEXE PRIVÉ,Complexe Shaolin,Rue du Général Jean Compans,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,,
+NIHON TAI-JITSU,BALMA SAINT EXUPERY 31,www.bse31.com,Pont des Demoiselles,COMPLEXE PRIVÉ,Balma Saint-Exupéry 31,Avenue Antoine de Saint Exupéry,31400.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.583177, 1.471575
+NATATION SYNCHRONISEE,TOULOUSE NAT SYNCHRO,www.toulouse-natsynchro.fr,Saint Michel,ENSEMBLE BERTHELOT CALAS,PISCINE ROGER PRADIE,Rue des Saules,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.607986, 1.438383
+pétanque,LA BOULE D'OR,,Reynerie,PLACE EDOUARD BOUILLERE,BOULODROME PL BOUILLERE,Place Edouard Bouillière,31100.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Non,43.565011, 1.479437
+pétanque,PETANQUE CLUB GRAND ROND,,Le Busca,Nouveau Complexe Municipal,Boulodrome Grand Rond,Allées Frédéric Mistral,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,,
+pétanque,PETANQUE PONT DES DEMOISELLES,,Pont des Demoiselles,BATIMENTS SUR DOMAINE PUBLIC,BOULODROME PONT DES DEMOISELLES,Place Roger Arnaud,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.58706, 1.463603
+retraite sportive,ASTIG - Association Sportive Toulouse Inter Générations,,Mirail Université,COSEC MIRAIL,COSEC DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Oui,Non,,
+rugby à XIII,TOULOUSE OLYMPIQUE XIII,www.to13.com,Minimes,STADE DES MINIMES,STADE ARNAUNE,Avenue Frédéric Estèbe,31200.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.621562, 1.436936
+sauvetage et secourisme,CLUB DE SAUVETAGE TOULOUSAIN,,Ramier,PARC DES SPORTS,PISCINE NAKACHE,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.5504, 1.477749
+sauvetage et secourisme,CLUB DE SAUVETAGE TOULOUSAIN,,Rangueil - CHR - Facultés,ZONE VERTE DE PECH DAVID,PISCINE PECH DAVID,Chemin des côtes de Pech David,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.539087, 1.486442
+kick boxing,TOULOUSE MULTI BOXE,tmboxe.free.fr,Patte d'Oie,COMPLEXE PRIVÉ,Académie des Arts Martiaux de Toulouse,Avenue de Lombez,31300.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.582, 1.448621
+Qi Gong,ASSOCIATION 5 ANIMAUX QI GONG,www.5a-qigong.com,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.604268, 1.441019
+Qi Gong,LES VENTRES LIBRES,www.lesventreslibres.com,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.45158, 1.399456
+duathlon et triathlon,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,www.chez.com/toactri/,Sept Deniers,Complexe du TOAC,Piste d'athlétisme du TOAC,Chemin de Garric,31200.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.621471, 1.3408769999999999
+VOLLEY BALL,ASSOCIATION STADE TOULOUSAIN RUGBY,,Bagatelle,ENSEMBLE BAGATELLE,GYMNASE BAGATELLE,Impasse du Bachaga Boualam,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+wushu,MIDI PYRENEES SHAOLIN SI WASHU QUAN - ECOLE SHI MIAOFENG,shaolinmidipyrenees.org,Arnaud Bernard,COMPLEXE PRIVÉ,Planet Gym,Rue Urbain Vitry,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.606425, 1.439734
+CAPOEIRA,ASSOCIATION CAPOEIRAGEM,www.capoeiragem.fr,Marengo Jolimont,ENSEMBLE DES ACACIAS,GYMNASE DES ACACIAS,Rue de l' Obélisque,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.601438, 1.4538069999999998
+BASKET-BALL,TCMS section BASKET BALL,basket.tcms.free.fr,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+BOWLING,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,Juncasse - Argoulets,Complexe du TCMS,TCMS Bowling,Avenue de l' Hers,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.550126, 1.4129239999999998
+BOXE ANGLAISE,RACING CLUB MONTANE TOULOUSE,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,43.082281, 0.673642
+CYCLOTOURISME,TOULOUSE VELO CLUB,toulouseveloclub.free.fr,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.693241, 1.432396
+CYCLOTOURISME,UNION DES CYCLOTOURISTES TOULOUSAINS,uctistes.wordpress.com,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+CAPOEIRA,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.605744, 1.465466
+AEROMODELISME,AERO-CLUB DE L'ENAC (Ecole Nationale de l'Aviation Civile),www.aeroclub-enac.com,,COMPLEXE PRIVÉ,Aérodrome de Lasbordes,,31130.0,Balma,Non,Non,Non,Non,Oui,Oui,Non,Non,43.609568, 1.497847
+ATHLETISME ADAPTE (EN STADE),TOAC section ATHLETISME,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+AVIRON,TOULOUSE AVIRON SPORT LOISIRS,www.tasl.fr,Ginestous,Base nautique de Lalande,Base nautique de Lalande,Impasse de la Glacière,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.64661, 1.424205
+BADMINTON,ASSOCIATION SPORTIVE TOULOUSE MIRAIL BADMINTON,www.astmb.fr,Bagatelle,ENSEMBLE BAGATELLE,HALLE SPORTIVE BAGATELLE,Impasse du Bachaga Boualam,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,,
+BOWLING,ECOLE DE BOWLING DE TOULOUSE,,Gramont,COMPLEXE PRIVÉ,Bowling de Gramont,Chemin de Gabardie,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Non,Non,Non,43.640724, 1.482143
+CANOE-KAYAK,ASPTT GRAND TOULOUSE OMNISPORT,www.toulouse.asptt.com,,,,,,,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+CIRQUE,LES ARTS DU CIRQUE DES PRADETTES,artsducirque@netcourrier.com,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Non,Non,Non,Non,,
+échecs,MAISON DES ECHECS DE TOULOUSE LARDENNE,www.club-echecs-toulouse.com,Lardenne,Nouveau Complexe Municipal,Maison de Lardenne,Rue Jean d' Alembert,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.588815, 1.386921
+gymnastique volontaire,TOULOUSE GYMNASTIQUE VOLONTAIRE,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.602024, 1.4615369999999999
+plongée,CLUB DE PLONGEE RECHERCHE SCIENTIFIQUE MIDI PYRENEES,www.cprsmp.org,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.593607, 1.462219
+plongée,CLUB SUBAQUATIQUE TOULOUSAIN,csat.free.fr,,FOSSE DE PLONGEE - MAGASIN L'ARGONAUTE,FOSSE DE PLONGEE - MAGASIN L'ARGONAUTE,,31520.0,Ramonville Saint Agne,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+plongée,INSA BULLES,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+FOOTBALL,TOULOUSE FONTAINES CLUB,,Patte d'Oie,TERRAIN DE SPORTS DES FONTAINE,STADE DES FONTAINES,Rue des Fontaines,31300.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.590397, 1.466793
+FOOTBALL,TOULOUSE RANGUEIL FOOTBALL CLUB,www.trfc.free.fr,Rangueil - CHR - Facultés,ZONE VERTE DE PECH DAVID,TERRAIN DE SPORT BARRAN,Chemin des côtes de Pech David,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.589766, 1.415235
+handball,TOULOUSE FEMININ HANDBALL,www.tfhb.org,Compans,ENSEMBLE COMPANS,GYMNASE COMPANS CAFFARELLI,Rue du Canon d' Arcole,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+footing,SAKURA CLUB TOULOUSAIN,asct.toulouse.free.fr,Minimes,GR SCOL PIERRE ET MARIE CURIE,GYMNASE PIERRE ET MARIE CURIE,Rue de la Jeunesse,31200.0,TOULOUSE,Non,Non,Oui,Oui,Non,Oui,Oui,Oui,43.621063, 1.442643
+NIHON TAI-JITSU,FOUJI SAKURA RYU,foujisakuraryu.club.sportsregions.fr,La Cépière,ACADEMIE DES ARTS MARTIAUX,ACADEMIE DES ARTS MARTIAUX,Avenue de Lombez,,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Non,43.589773, 1.373132
+AQUAGYM,ASPTT section NATATION,asptt.toulouse-natation.com,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+pétanque,JOYEUSE PETANQUE LA FAOURETTE,,Faourette,ENSEMBLE LA FAOURETTE,BOULODROME LA BOULE D'OR,Rue de l' Ukraine,31100.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Oui,Non,43.579221, 1.414579
+rugby,TOULOUSE LALANDE AUCAMVILLE XV,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.667997, 1.429367
+SONMUDO,ECOLE FRANCAISE DE SONMUDO,www.sonmudo.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+tir sportif,CSAG - CLUB SPORTIF ET ARTISTIQUE DE GARNISON TOULOUSE,csagtoulouse.free.fr/,,Quartier Balma Ballon,Quartier Balma Ballon,,31130.0,Balma,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+duathlon et triathlon,TOULOUSE TRIATHLON,www.toulouse-tri.com,Barrière de Paris,ENSEMBLE SCOLAIRE TLSE LAUTREC,PISCINE TOULOUSE LAUTREC,Impasse Barthe,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.601659, 1.479877
+duathlon et triathlon,TUC TRI 31,www.tuc-triathlon.com,Ramier,Stade Universitaire Daniel Faucher,Stade Universitaire Daniel Faucher,Allée du Professeur Camille Soula,31400.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.491091, 1.406725
+VOLLEY BALL,SPACER'S TOAC-TUC VOLLEY-BALL,www.spacerstoulouse.fr,Compans,ENSEMBLE COMPANS,GYMNASE COMPANS CAFFARELLI,Rue du Canon d' Arcole,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.61299, 1.435779
+VOLLEY BALL,SPACER'S TOAC-TUC VOLLEY-BALL,www.spacerstoulouse.fr,Saint Cyprien,ECOLE MATERNELLE LAMARTINE,GYMNASE PUIG,Rue Coupefer,31300.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.598846, 1.4416449999999998
+YOGA,SILENCE ET RYTHME,www.yoga-silenceetrythme.fr,,,,,,,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+CAPOEIRA,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Non,43.573964, 1.48466
+CAPOEIRA,ASSOCIATION CAPOEIRAGEM,www.capoeiragem.fr,Arnaud Bernard,COMPLEXE PRIVÉ,Planet Gym,Rue Urbain Vitry,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.606425, 1.439734
+BOXE ANGLAISE,ASVEC Toulouse Mirail,,Reynerie,ENSEMBLE SPORT EDUCAT REYNERIE,COSEC REYNERIE,Cheminement Jean-François Lesueur,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,,
+plongée,NAPUKA,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+FOOTBALL,ASEAT,www.aseat.fr,Juncasse - Argoulets,LES ARGOULETS,TERRAIN DE FOOTBALL STABILISE ARGOULETS,Rue de Rabastens,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.621936, 1.4755989999999999
+golf,GOLF CLUB DE TOULOUSE,,,COMPLEXE PRIVÉ,Golf Club de Toulouse,,31320.0,Vieille Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.524242, 1.445664
+handball,TEC - Toulouse Electrogaz Club,,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+ATHLETISME ADAPTE (EN STADE),TOAC section ATHLETISME,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+JUDO ADAPTE,SAKURA CLUB TOULOUSAIN,asct.toulouse.free.fr,Minimes,GR SCOL PIERRE ET MARIE CURIE,GYMNASE PIERRE ET MARIE CURIE,Rue de la Jeunesse,31200.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.621063, 1.442643
+tennis de table,ASPTT section TENNIS DE TABLE,www.toulouse.asptt.com,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+CANYONISME,CLUB ALPIN FRANCAIS DE TOULOUSE,caltoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+ESCALADE,CADETS DE TOULOUSE,www.kdtoulouse.free.fr,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+BOXE THAILANDAISE / MUAY THAI,A S MACCABI TOULOUSE,www.maccabitoulouse.com,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.608901, 1.441787
+paintball,LES TONTONS FLINGUEURS,,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.664547, 1.503845
+pelote basque,STADE TOULOUSAIN PELOTE,,Juncasse - Argoulets,LES ARGOULETS,PELOTE BASQUE ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.577522, 1.455107
+pelote basque,TAC section PELOTE BASQUE,,Sept Deniers,Complexe du TOAC,Fronton du TOAC,Chemin de Garric,31200.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.580282, 1.4715989999999999
+rugby,CSAG - CLUB SPORTIF ET ARTISTIQUE DE GARNISON TOULOUSE,,,Quartier Balma Ballon,Quartier Balma Ballon,,31130.0,Balma,Non,Non,Non,Non,Non,Oui,Oui,Non,43.553461, 1.7579069999999999
+rugby,TAC - Toulouse Athlétic Club,,La Fourguette,COMPLEXE SPORTIF DE GIRONIS,TERRAIN DE RUGBY GIRONIS,Rue de Gironis,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.480149, 1.323123
+BOULES LYONNAISES,ENTENTE SPORTIVE BOULISTE TOULOUSAINE,,Juncasse - Argoulets,MAIRIE ANNEXE ROSERAIE,BOULODROME COUVERT RENE CANNIZZO,Avenue du Parc,31500.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.621158, 1.47173
+tennis,ROWING NOUVEAU,,Ramier,COMPLEXE PRIVÉ,Rowing Nouveau,Allée Alfred Mayssonnie,31400.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.590233, 1.436469
+YOGA,YOGA TOLOSA,www.yogatolosa.sitew.fr,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+AEROMODELISME,AERO-CLUB CLAUDE CHAUTEMPS,a3chautemps.free.fr,,COMPLEXE PRIVÉ,Aérodrome de Lasbordes,,31130.0,Balma,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.609568, 1.497847
+ATHLETISME ADAPTE (EN STADE),TOULOUSE UNIVERSITE CLUB SECTION ATHLETISME,www.satuc.com,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+BOWLING,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,bowling.toac.free.fr,,COMPLEXE PRIVÉ,Bowling de Labège,,31670.0,Labège,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.612602, 1.335509
+CHEERLEADING,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+VTT,ASPTT section VTT,,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+CYCLOTOURISME,CYCLO CLUB LARDENNE TOULOUSE,pagesperso-orange.fr/APSO/cclardenne,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+danses artistiques,ASCGMP - ASSOCIATION SPORTIVE & CULTURELLE DE LA GENDARMERIE MIDI PYRENEES - SECTION COURREGE,,,,,,,,Non,Oui,Oui,Non,Non,Non,Non,Non,,
+POLO,POLO 31,www.polo31.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+hockey subaquatique,CHOKS DE TOULOUSE,choks.free.fr,Bellefontaine,ALBAN MINVILLE,PISCINE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Non,43.542728, 1.352682
+plongée,LES AMIS DE LA MER,www.adlm.org,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Non,43.593607, 1.462219
+FOOTBALL,ASSOCIATION SPORTIVE HERSOISE,www.ashersoise.fr,Château de L'Hers,ENSEMBLE CHATEAU DE L'HERS,TERRAIN DE FOOTBALL STABILISE ZAC CHATEAU DE L'HERS,Rue Claudius Rougenet,31500.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,43.599624, 1.485406
+FOOTBALL,TOAC section FOOTBALL,toacsectionfoot.footeo.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+gymnastique forme et loisirs,AVENIR ETIENNE BILLIERES,,Ramier,PARC DES SPORTS,SALLE DE SPORTS PARC DES SPORTS,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.561764, 1.306196
+CYCLISME SUR ROUTE,ASMTH HANDICAP DEFI - Association Sportive Muret Toulouse Handisport,www.handicapdefi.com,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+JUDO ADAPTE,TOULOUSE JUDO,www.toulousejudo.com,Bellefontaine,ENSEMBLE VALMY BELLEFONTAINE,GYMNASE VALMY,Cheminement Guillaume et Joseph Bouton,31100.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,,
+karaté,BALMA SAINT EXUPERY 31,www.bse31.com,Juncasse - Argoulets,LES ARGOULETS,MAISON DU JUDO ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.577522, 1.455107
+ESCALADE,TUC section ESCALADE,www.tuc.asso.fr,,,,,,,Non,Non,Non,Non,Oui,Oui,Non,Non,43.604268, 1.441019
+ski de randonnée,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+pelote basque,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,Juncasse - Argoulets,LES ARGOULETS,PELOTE BASQUE ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Non,43.604387, 1.512557
+pelote basque,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Juncasse - Argoulets,LES ARGOULETS,PELOTE BASQUE ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.661128, 1.421865
+rugby à XIII,TOULOUSE OVALIE XIII - LES ANGES,,Pont des Demoiselles,STADE PHILIPPE STRUXIANO,STADE PHILIPPE STRUXIANO,Avenue de Lespinet,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Non,43.580005, 1.46692
+savate,TOULOUSE MULTI BOXE,tmboxe.free.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.572931, 1.463274
+DANSE SUR GLACE,TOULOUSE SPORTS DE GLACE,www.tsgpatinage.com,Juncasse - Argoulets,LES ARGOULETS,PATINOIRE FRATERNITE,Avenue de l' Hers,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.608324, 1.498483
+tennis,A S MACCABI TOULOUSE,www.maccabitoulouse.com,Pont des Demoiselles,STADE DES HERBETTES,TENNIS DES HERBETTES,Avenue de Lespinet,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.59651, 1.441252
+parapente,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+YOGA,ATELIER DE PRATIQUE DE YOGA,,,,,,,,Non,Non,Non,Non,Oui,Oui,Non,Non,43.604268, 1.441019
+AEROMODELISME,Aéro-club CE Airbus France René Barbaro,www.acat-toulouse.org,,COMPLEXE PRIVÉ,Aérodrome de Lasbordes,,31130.0,Balma,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.609568, 1.497847
+BADMINTON,OLYMPE BADMINTON CLUB,obc.tlse.free.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.606578999999996, 1.451622
+BASKET-BALL,ETOILE SPORTIVE TOULOUSE CASSELARDIT,,Saint Cyprien,ECOLE MATERNELLE LAMARTINE,GYMNASE PUIG,Rue Coupefer,31300.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.615109, 1.338026
+BILLARD,ACADEMIE TOULOUSAINE DE BILLARD,www.billard-toulouse-atb.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+COURSE D'ORIENTATION,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,toaco.free.fr,,COMPLEXE PRIVÉ,Forêts de Bouconne et de Buzet,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+CYCLISME SUR ROUTE,RACING CLUB OLYMPIQUE,,,,,,,,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+DAMES,CLUB DAMIER TOULOUSAIN,damier31.free.fr/,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.813047, 1.570805
+gymnastique volontaire,ASSOCIATION GYMNASTIQUE DES MAZADES,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.604268, 1.441019
+CHASSE SOUS-MARINE,GASM - Groupe d'Activités Sous Marines,gasm-toulouse.chez-alice.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.561769, 1.31404
+plongée,AMPHIPRION PLONGEE,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.593607, 1.462219
+FOOTBALL,A S FARMENTIERES,club.sportsrégions.fr/asfa-toulouse,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+FOOTBALL,FRIDAY FOOTBALL CLUB,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+FOOTBALL,TOULOUSE FONTAINES CLUB,,Casselardit,RESERVE FONCIERE CARTOUCHERIE,GYMNASE PIERRE MONTANE,Avenue Raymond Badiou,31300.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.573375, 1.4882119999999999
+FOOTBALL,TROPIK 'CLUB TOULOUSE,www.tropikfc.fr,Pont des Demoiselles,STADE PHILIPPE STRUXIANO,TERRAIN DE FOOTBALL SYNTHETIQUE STRUXIANO,Avenue de Lespinet,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Non,Non,43.580005, 1.46692
+football australien,ASSOCIATION TOULOUSAINE DE FOOTBALL AUSTRALIEN,,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+MUSCULATION - HALTEROPHILIE,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.589645, 1.465599
+ATHLETISME ADAPTE (EN STADE),STADE TOULOUSAIN section ATHLETISME,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+JUDO ADAPTE,AIKIDO BUDO CLUB (ABC),aikidobudoclub.free.fr,Bonnefoy,COMPLEXE PRIVÉ,Aïkido Budo Club,Rue du Docteur Ferdinand Gendre,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.619949, 1.45852
+JUDO,CETAM - Centre d'Etudes Toulousain des Arts Martiaux,www.cetam.fr,Saint Aubin - Dupuy,GROUPE SCOLAIRE CALVINHAC,GYMNASE CALVINHAC,Rue Jacques Labatut,31000.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.598045, 1.454765
+kung-Fu,ASSOCIATION YIM WING CHUN,yimwingchun.free.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+kung-Fu,MIDI PYRENEES SHAOLIN SI WASHU QUAN - ECOLE SHI MIAOFENG,shaolinmidipyrenees.org,Matabiau,COMPLEXE PRIVÉ,Judo Olympia Gym,Rue Caffarelli,31000.0,Toulouse,Non,Non,Non,Non,Non,Non,Non,Non,43.578182, 1.417703
+ALPINISME,ASPTT GRAND TOULOUSE OMNISPORT,perso.wanadoo.fr/d.hoizey,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+ALPINISME,ASSOCIATION PYRENEES CLUB,www.pyrenees-club.asso.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+pétanque,AMICALE PETANQUE EMPALOT,,Empalot,ENSEMBLE ANDRE DASTE,BOULODROME MAIL EMPALOT,Rue d' Aix,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.578643, 1.4385919999999999
+pétanque,PAPUS PETANQUE CLUB,,Papus,EQUIPEMT SPORT PROXIMITE PAPUS,BOULODROME PAPUS,Rue du Béarn,31100.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.575966, 1.410099
+roller,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Sept Deniers,Complexe du TOAC,Salle de sports du TOAC,Chemin de Garric,31200.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.620162, 1.408135
+Skate board,ARA - Arts Rêve Action,www.assoara31.fr,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+BOXE FRANCAISE,TUC OMNISPORTS- Toulouse Université Club,www.tuc.asso.fr,Rangueil - CHR - Facultés,Université de Rangueil,Gymnase de l'Université de Rangueil,Route de Narbonne,31400.0,Toulouse,Non,Non,Non,Non,Non,Oui,Oui,Non,43.563401999999996, 1.460348
+ski alpin,ASSOCIATION PYRENEES CLUB,www.pyrenees-club.asso.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+tae kwon do,Ecole d'Arts Martiaux,teamtkd.free.fr,Saint Aubin - Dupuy,GROUPE SCOLAIRE CALVINHAC,GYMNASE CALVINHAC,Rue Jacques Labatut,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.636248, 1.490051
+tae kwon do,SHAOLIN,shaolin-toulouse.com,Marengo Jolimont,COMPLEXE PRIVÉ,Complexe Shaolin,Rue du Général Jean Compans,31500.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+tae kwon do,TOULOUSE CLUB TAEKWONDO 31,www.tct31.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.562897, 1.407587
+tennis,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.615771, 1.470962
+tennis de table,ASPTT section TENNIS DE TABLE,www.toulouse.asptt.com,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+VOLLEY BALL,A S MACCABI TOULOUSE,www.maccabitoulouse.com,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+YOGA,IZ'ART SPORT ET CULTURE,,,,,,,,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+danses artistiques,VIRE ET VOLTE,www.virevolte.fr,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.578802, 1.383944
+gymnastique volontaire,Association Sportive et Culturelle Midi-Pyrénées,,Pont des Demoiselles,COMPLEXE PRIVÉ,Caserne Courrèges,Avenue Jean Rieux,,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,,
+gymnastique volontaire,BALMA SAINT EXUPERY 31,www.bse31.com,Pont des Demoiselles,COMPLEXE PRIVÉ,Balma Saint-Exupéry 31,Avenue Antoine de Saint Exupéry,31400.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.583177, 1.471575
+plongée,CORAIL CLUB,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+FOOTBALL,ETOILE SPORTIVE SAINT SIMON,www.saintsimonfoot.fr,Zones d'activités sud,DOMAINE DE CANDIE,TERRAIN DE SPORT SAUDRUNE,Chemin de la Saudrune,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.54219, 1.389883
+golf,ASPTT section GOLF,www.toulouse.asptt.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+handball,ASVEC Toulouse Mirail,,Bellefontaine,ALBAN MINVILLE,GYMNASE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Non,Non,Oui,Non,Non,Non,Non,Non,43.563717, 1.403633
+handball,ASVEC Toulouse Mirail,,Bellefontaine,ENSEMBLE VALMY BELLEFONTAINE,GYMNASE VALMY,Cheminement Guillaume et Joseph Bouton,31100.0,TOULOUSE,Non,Non,Oui,Non,Non,Non,Non,Non,43.559134, 1.398651
+lutte,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.616682, 1.414639
+ALPINISME,TEC - Toulouse Electrogaz Club,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Oui,,
+CANYONISME,GROUPE SPELEOLOGIQUE DES PYRENEES,gspy-club.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.480833, 1.430772
+ESCALADE,ASPTT GRAND TOULOUSE OMNISPORT,www.toulouse.asptt.com,,Complexe ASPTT,Stade Charles Boutonnet,,31770.0,Colomiers,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+ESCALADE,PYRENE,www.ffme.fr/club/structure.php?id=228,Mirail Université,COSEC MIRAIL,COSEC DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.601483, 1.467433
+pelote basque,STADE TOULOUSAIN PELOTE,,Ramier,PARC DES SPORTS,PELOTE BASQUE PARC DES SPORTS,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.583959, 1.436448
+pétanque,ROWING NOUVEAU,,Ramier,COMPLEXE PRIVÉ,Rowing Nouveau,Allée Alfred Mayssonnie,31400.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.590233, 1.436469
+randonnée Pédestre,ASSOCIATION PYRENEES CLUB,www.pyrenees-club.asso.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+retraite sportive,ASTORS - Association Toulousaine de la Retraite Sportive,,Juncasse - Argoulets,LES ARGOULETS,MAISON DU JUDO ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Oui,Non,43.64429, 1.446693
+rugby à XIII,TOULOUSE JULES JULIEN BRONCOS XIII,ustjj13@free.fr,Pont des Demoiselles,STADE PHILIPPE STRUXIANO,STADE PHILIPPE STRUXIANO,Avenue de Lespinet,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.580005, 1.46692
+rugby,ASSOCIATION STADE TOULOUSAIN RUGBY,www.stadetoulousain.fr,Sept Deniers,Complexe du Stade Toulousain,Stade des Sept Deniers,Rue des Troènes,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+kick boxing,TOULOUSE MULTI BOXE,tmboxe.free.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.572931, 1.463274
+spéléologie,SOCIETE MERIDIONALE DE SPELEOLOGIE ET DE PREHISTOIRE,,,,,,,,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.612879, 1.238885
+gymnastique artistique,CLUB TOULOUSAIN DU SPORT ADAPTE,,Mirail Université,COSEC MIRAIL,NOUVEAU GYMNASE DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.616859, 1.421328
+DANSE SUR GLACE,TOAC section PATINAGE SUR GLACE,www.toac-patinage.fr,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.720212, 1.430416
+taï chi chuan/Qi Gong,MIDI PYRENEES SHAOLIN SI WASHU QUAN - ECOLE SHI MIAOFENG,shaolinmidipyrenees.org,Matabiau,COMPLEXE PRIVÉ,Judo Olympia Gym,Rue Caffarelli,31000.0,Toulouse,Non,Non,Non,Non,Non,Non,Non,Non,43.608465, 1.450373
+tennis de table,TAC section TENNIS DE TABLE,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.537116, 1.342645
+VOLLEY BALL,ASSOCIATION STADE TOULOUSAIN RUGBY,,Bellefontaine,ENSEMBLE VALMY BELLEFONTAINE,GYMNASE VALMY,Cheminement Guillaume et Joseph Bouton,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+VOLLEY BALL,SPACER'S TOAC-TUC VOLLEY-BALL,www.spacerstoulouse.fr,Compans,ENSEMBLE COMPANS,PALAIS DES SPORTS ANDRE BROUAT,Rue du Canon d' Arcole,31000.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.61299, 1.435779
+VOLLEY BALL,TCMS section VOLLEY-BALL,,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+BASKET-BALL,TOULOUSE BASKET CLUB,www.toulouse-basket-club.fr,Bagatelle,ENSEMBLE BAGATELLE,GYMNASE BAGATELLE,Impasse du Bachaga Boualam,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+BOWLING,BOWLING CLUB 31,,Montaudran Lespinet,COMPLEXE PRIVÉ,Bowling de Montaudran,Impasse Louise Labe,,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.582956, 1.532298
+CYCLISME SUR ROUTE,TOULOUSE VELO CLUB,toulouseveloclub.free.fr,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.693241, 1.432396
+VIET VO DAO,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Non,Non,43.605744, 1.465466
+AIKIDO,AIKIDO BUDO CLUB (ABC),aikidobudoclub.free.fr,Les Chalets,COMPLEXE PRIVÉ,Espace Tonic,Boulevard Matabiau,31000.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.61494, 1.444684
+AIKIDO,DOJO DE LA ROSERAIE,www.aikido-noel.com,Roseraie,COMPLEXE PRIVÉ,Dojo de la Roseraie,Chemin de Nicol,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.630809, 1.470567
+AVIRON,AVIRON TOULOUSAIN,www.aviron-toulousain.com,Ramier,Base Nautique André Dandine,Base nautique André Dandine,Allée Fernand Jourdant,31400.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.586849, 1.435147
+BOWLING,ASSOCIATION SPORTIVE AIR FRANCE,www.asaf.sport.asso.fr,Minimes,COMPLEXE PRIVÉ,Bowling des Minimes,Avenue des Minimes,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.584643, 1.4731130000000001
+BOWLING,SPORT QUILLES TOULOUSAIN,,Minimes,COMPLEXE PRIVÉ,Bowling des Minimes,Avenue des Minimes,31200.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.621047, 1.435368
+BOXE ANGLAISE,BOXING TOULOUSE BAGATELLE,,Faourette,ENSEMBLE LA FAOURETTE,GYMNASE LA FAOURETTE,Rue Paul Lambert,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.578277, 1.4145189999999999
+CYCLISME SUR ROUTE,A S MACCABI TOULOUSE,www.maccabitoulouse.com,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+CYCLO-CROSS,TOAC section CYCLISME,toac.cyclisme.free.fr/,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.693459, 1.268659
+danses artistiques,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.605744, 1.465466
+gymnastique volontaire,GV SPORT SANTE,gvsportsante.com,,,,,,,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+gymnastique volontaire,IZ'ART SPORT ET CULTURE,,Croix Daurade,COMPLEXE PRIVÉ,Salle polyvalente de Borderouge,Rue Hubert Monloup,,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.637216, 1.453581
+gymnastique volontaire,IZ'ART SPORT ET CULTURE,,Les Izards,CENTRE ANIMATION DES CHAMOIS,CENTRE ANIMATION DES CHAMOIS,Rue des Chamois,,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.638693, 1.443171
+gymnastique volontaire,LARDENNE - gymnastique volontaire,,,PETIT CAPITOLE,GYMNASE LARDENNE,,31100.0,TOULOUSE,Non,Oui,Oui,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+plongée,CLUB AUX ACTIVITES SUBAQUATIQUES D'AIRBUS,www.casa.asso.fr,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,PISCINE LEO LAGRANGE,Place Pierre-Paul Riquet,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,,
+FOOTBALL,ASPTT GRAND TOULOUSE OMNISPORT,www.toulouse.asptt.com,,Complexe ASPTT,Stade Charles Boutonnet,,31770.0,Colomiers,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+FOOTBALL,ASSOCIATION SPORTIVE TOULOUSE LARDENNE,lardenneac.site.voila.fr,Lardenne,ECOLE MIXTE 1 DE LARDENNE,TERRAIN DE SPORT ECOLE LARDENNE,Chemin de Rocamadour,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.588947, 1.377681
+FOOTBALL,RODEO FOOTBALL CLUB,,Rangueil - CHR - Facultés,ZONE VERTE DE PECH DAVID,TERRAIN DE SPORT SORDELOT,Chemin des côtes de Pech David,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.589766, 1.415235
+FOOTBALL,TOULOUSE SAINT JO,www.toulousestjofooball.eu,Juncasse - Argoulets,LES ARGOULETS,TERRAIN DE FOOTBALL ENGAZONNE ARGOULETS,Rue de Rabastens,31500.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.621936, 1.4755989999999999
+gymnastique artistique,AVENIR ETIENNE BILLIERES,shirka2@free.fr,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.565192, 1.296042
+gymnastique artistique,AVENIR ETIENNE BILLIERES,shirka2@free.fr,Ramier,PARC DES SPORTS,SALLE DE SPORTS PARC DES SPORTS,Allée Gabriel Biénès,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.561764, 1.306196
+handball,TOULOUSE UNION HANDBALL,www.toulousehandball.com,Compans,ENSEMBLE COMPANS,PALAIS DES SPORTS ANDRE BROUAT,Rue du Canon d' Arcole,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+JUDO,BALMA SAINT EXUPERY 31,www.bse31.com,Juncasse - Argoulets,LES ARGOULETS,MAISON DU JUDO ARGOULETS,Rue Dinetard,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.577522, 1.455107
+karaté,Saint Sernin Karaté,www.saintserninkarate.fr,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.608901, 1.441787
+karaté,SHAOLIN,shaolin-toulouse.com,Marengo Jolimont,COMPLEXE PRIVÉ,Complexe Shaolin,Rue du Général Jean Compans,31500.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,,
+kung-Fu,MIDI PYRENEES SHAOLIN SI WASHU QUAN - ECOLE SHI MIAOFENG,shaolinmidipyrenees.org,Arnaud Bernard,COMPLEXE PRIVÉ,Planet Gym,Rue Urbain Vitry,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.606425, 1.439734
+ALPINISME,ASPTT GRAND TOULOUSE OMNISPORT,perso.wanadoo.fr/d.hoizey,,Extérieurs de Toulouse,Le Caroux,,,Au Caroux,Non,Non,Non,Non,Non,Oui,Oui,Non,43.604268, 1.441019
+ALPINISME,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Alpes,,,Dans les Alpes,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+ALPINISME,CLUB ALPIN FRANCAIS DE TOULOUSE,caftoulouse.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+WATER-POLO,STADE TOULOUSAIN NATATION,www.stadetoulousainnatation.fr,Bellefontaine,ALBAN MINVILLE,PISCINE ALBAN MINVILLE,Allée de Bellefontaine,31100.0,TOULOUSE,Non,Non,Oui,Non,Oui,Oui,Non,Non,43.617538, 1.4336069999999999
+pétanque,AMICALE PETANQUE CLUB DES RAVELINS,,Patte d'Oie,BATIMENTS SUR DOMAINE PUBLIC,BOULODROME PL DU RAVELIN,Place du Ravelin,31300.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.598748, 1.428573
+roller,ROLLER DERBY TOULOUSE,www.rollerderbytoulouse.com,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+rugby,FCTT - FOOTBALL CLUB TOAC TOEC,www.fcttrugby.com,Casselardit,STADE DU TOEC,STADE DU TOEC,Rue Ernest Dufer,31300.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Non,Oui,Non,43.597143, 1.403025
+ski alpin,SKI AFPA TOULOUSE,skiafpa.free.fr,,Extérieurs de Toulouse,Les Pyrénées,,,Dans les Pyrénées,Non,Non,Non,Non,Oui,Oui,Oui,Non,,
+BOULES LYONNAISES,TEC - Toulouse Electrogaz Club,jean.marc.fochesato@cegetel.net,Amidonniers,Complexe du TEC,Boulodrome du Bazacle,Impasse du Ramier des Catalans,31000.0,Toulouse,Non,Non,Non,Oui,Oui,Oui,Oui,Non,,
+tae kwon do,TAEKWONDO CLUB BORDEROUGE,taekwondo.borderouge.free.fr,Croix Daurade,COMPLEXE PRIVÉ,Dojo de Borderouge,Rue Hubert Monloup,,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.577778, 1.482932
+tennis,TUC OMNISPORTS- Toulouse Université Club,www.tuc.asso.fr,Ramier,Stade Universitaire Daniel Faucher,Tennis Stade Universitaire Daniel Faucher,Allée du Professeur Camille Soula,31400.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.580038, 1.435198
+tir sportif,TIR SPORTIF TOULOUSE BESSIERES,,,COMPLEXE PRIVÉ,Stand de la Forêt,,31660.0,Bessières,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.778738, 1.632528
+VOLLEY BALL,ASSOCIATION STADE TOULOUSAIN RUGBY,,Faourette,ENSEMBLE LA FAOURETTE,GYMNASE LA FAOURETTE,Rue Paul Lambert,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.726141, 1.358528
+CAPOEIRA,GINGA NAGO TOULOUSE,www.ginganagotoulouse.com,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+BADMINTON,TCMS OMNISPORT - TOULOUSE CHEMINOT MARENGO SPORTS,,Juncasse - Argoulets,Complexe du TCMS,Gymnase Surcouf,Avenue de l' Hers,31500.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Non,Non,43.613425, 1.478851
+BASKET-BALL,ASVEC Toulouse Mirail,,Reynerie,ENSEMBLE SPORT EDUCAT REYNERIE,COSEC REYNERIE,Cheminement Jean-François Lesueur,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.568918, 1.406585
+BOWLING,TOAC - TOULOUSE OLYMPIQUE AVIATION CLUB - OMNISPORT,bowling.toac.free.fr,Minimes,COMPLEXE PRIVÉ,Bowling des Minimes,Avenue des Minimes,31200.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.600098, 1.322538
+CYCLOTOURISME,TUC OMNISPORTS- Toulouse Université Club,www.tuc.asso.fr,,COMPLEXE PRIVÉ,Université de Toulouse Mirail,,31058.0,Toulouse cédex 9,Non,Non,Non,Non,Oui,Oui,Non,Non,43.604268, 1.441019
+DANSE DE SALON / DANSE PAR COUPLES,VIRE ET VOLTE,www.virevolte.fr,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,GYMNASE DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.578802, 1.383944
+danses artistiques,ENTRECHAT,croixdepierreculture@free.fr,Croix de Pierre,COMPLEXE PRIVÉ,Entrechat,Rue Lafage,,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.584808, 1.4264649999999999
+gymnastique volontaire,UEREPS - Gymnase Volontaire,,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.572931, 1.463274
+FOOTBALL,JEUNESSE SPORTIVE DES PRADETTES,www.jstpradettes.com,Les Pradettes,GROUPE SCOL FERDINAND LESSEPS,TERRAIN DE FOOTBALL DES PRADETTES,Rue Ferdinand de Lesseps,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.578802, 1.383944
+FOOTBALL,UNION SPORTIVE DE POUVOURVILLE,pouvourvillefoot.fr,Pouvourville,EQUIP QUARTIER POUVOURVILLE,TERRAIN DE SPORT DE POUVOURVILLE,Impasse de Sarrangines,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.550403, 1.45051
+MUSCULATION - HALTEROPHILIE,TOULOUSE HALTERO CLUB,,Carmes,COLLEGE CLEMENCE ISAURE ANNEXE,GYMNASE FABRE,Avenue de la Garonnette,31000.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.609048, 1.4601579999999998
+tennis de table,TOAC section TENNIS DE TABLE,www.toac-tt.fr,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+JUDO,ASCGMP - ASSOCIATION SPORTIVE & CULTURELLE DE LA GENDARMERIE MIDI PYRENEES - SECTION COURREGE,,,,,,,,Non,Oui,Oui,Oui,Non,Non,Non,Non,,
+JUDO,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.615771, 1.470962
+JUDO,JUDO OLYMPIA GYM,olympiagym.free.fr,Matabiau,COMPLEXE PRIVÉ,Judo Olympia Gym,Rue Caffarelli,31000.0,Toulouse,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.608465, 1.450373
+JUDO,TOULOUSE JUDO,www.toulousejudo,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+KALARIPPAYAT,ASSOCIATION FRANCAISE DE KALARIPPAYAT,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+KENJUTSU,ASSOCIATION ALIZARINE,shintaidotoulouse.wordpress.com,La Fourguette,COMPLEXE SPORTIF DE GIRONIS,GYMNASE GIRONIS,Rue de Gironis,31100.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.619623, 1.4433129999999998
+NATATION,LES DAUPHINS DU TOEC,www.lesdauphinsdutoec.com,Saint Michel,ENSEMBLE BERTHELOT CALAS,PISCINE ROGER PRADIE,Rue des Saules,31400.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.607986, 1.438383
+WATER-POLO,STADE TOULOUSAIN NATATION,www.stadetoulousainnatation.fr,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,PISCINE BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Non,Oui,Non,Oui,Oui,Non,Non,,
+pétanque,CLUB PETANQUE RONDE D'EMPALOT,,Empalot,GROUPE SCOLAIRE LEO LAGRANGE,BOULODROME EMPALOT,Allée Henri Sellier,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.577391, 1.438638
+pétanque,LA BOULE D'ARGENT,,Sauzelong - Rangueil,ENSEMBLE SAOUZELOUNG,BOULODROME SAOUZELOUNG,Rue Jeanne Marvig,31400.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.579592, 1.4619149999999999
+retraite sportive,ASTIG - Association Sportive Toulouse Inter Générations,,Saint Aubin - Dupuy,ENSEMBLE LEO LAGRANGE,GYMNASE LEO LAGRANGE,Rue des Sept Troubadours,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Oui,Non,43.606578999999996, 1.451622
+rugby,TUC section RUGBY XV,www.tuc.asso.fr,,,,,,,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+BOXE FRANCAISE,TOULOUSE MULTI BOXE,tmboxe.free.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.572931, 1.463274
+savate,ASVEC Toulouse Mirail,,Reynerie,ENSEMBLE SPORT EDUCAT REYNERIE,COSEC REYNERIE,Cheminement Jean-François Lesueur,31100.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,,
+spéléologie,GROUPE SPELEOLOGIQUE DE TOULOUSE,speleotoulouse.free.fr,Saint Martin du Touch,COMPLEXE PRIVÉ,Espace Loisirs Arts Culture Airbus France,Route de Bayonne,31300.0,Toulouse,Non,Non,Non,Non,Non,Oui,Non,Non,43.568919, 1.423578
+BOULES LYONNAISES,AMICALE BOULISTE CROIX DAURADE,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+tae kwon do,Académie des Arts Martiaux de Toulouse,,Patte d'Oie,COMPLEXE PRIVÉ,Académie des Arts Martiaux de Toulouse,Avenue de Lombez,31300.0,TOULOUSE,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.591386, 1.347076
+tae kwon do,Ecole d'Arts Martiaux,teamtkd.free.fr,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.618824, 1.433018
+Qi Gong,MIDI PYRENEES SHAOLIN SI WASHU QUAN - ECOLE SHI MIAOFENG,shaolinmidipyrenees.org,Matabiau,COMPLEXE PRIVÉ,Judo Olympia Gym,Rue Caffarelli,31000.0,Toulouse,Non,Non,Non,Non,Non,Non,Non,Non,43.608465, 1.450373
+tennis,ASSOCIATION SPORTIVE AIR FRANCE,,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Non,Non,,
+VOLLEY BALL,TAC section VOLLEY-BALL,,La Fourguette,COMPLEXE SPORTIF DE GIRONIS,GYMNASE GIRONIS,Rue de Gironis,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.508691, 1.386001
+YOGA,CYSO - Cercle de Yoga du Sud Ouest,www.cyso-yoga.org,,CEAT,CEAT,,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Non,Non,Non,43.604268, 1.441019
+AVIRON,ASPTT GRAND TOULOUSE OMNISPORT,www.asptt.com,Ginestous,Base nautique de Lalande,Base nautique de Lalande,Impasse de la Glacière,31200.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.606838, 1.4658449999999998
+BADMINTON,ASPTT GRAND TOULOUSE OMNISPORT,www.toulouse.asptt.com,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.604268, 1.441019
+BADMINTON,VOLANT CLUB TOULOUSAIN,vct.volor.org,Juncasse - Argoulets,ENSEMBLE JOLIMONT,GYMNASE BERTRAND SONCOURT,Chemin Cassaing,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.60174, 1.384976
+BASKET-BALL,ARA - Arts Rêve Action,cballaire@yahoo.fr,,,,,,,Non,Non,Non,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+BOWLING,BOWLERS TOULOUSAINS,,,COMPLEXE PRIVÉ,Bowling de Labège,,31670.0,Labège,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+BOWLING,TOULOUSE BOWLING CLUB,,Montaudran Lespinet,COMPLEXE PRIVÉ,Bowling de Montaudran,Impasse Louise Labe,,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.553619, 1.459303
+BOXE ANGLAISE,ASVEC Toulouse Mirail,,Mirail Université,COSEC MIRAIL,COSEC DU MIRAIL,Rue Ferdinand Laulanie,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,,
+CYCLISME SUR ROUTE,EMPALOT VELO CLUB,perso.orange.fr/empalot.velo.club/,,,,,,,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+CYCLO-CROSS,TOULOUSE VELO CLUB,toulouseveloclub.free.fr,,Extérieurs de Toulouse,Région Midi-Pyrénées,,,En région Midi-Pyrénées,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,43.693241, 1.432396
+VTT,TOAC section CYCLISME,toac.cyclisme.free.fr/,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.693459, 1.268659
+DANSE DE SALON / DANSE PAR COUPLES,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.573964, 1.48466
+éveil à la danse,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Oui,Non,Non,Non,Non,Non,Non,43.573964, 1.48466
+gymnastique volontaire,CHATEAU DE L'HERS - gymnastique volontaire,,Château de L'Hers,ENSEMBLE SPORTIF CHATEAU HERS,GYMNASE CHATEAU DE L'HERS,Chemin de Limayrac,31500.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Non,43.589237, 1.489429
+FOOTBALL,ASEAT,www.aseat.fr,Juncasse - Argoulets,Complexe ASEAT,Installations CEAT,Rue d' Oran,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.615771, 1.470962
+FOOTBALL,TCMS section FOOTBALL,club.sportsregions.fr/tcmsfoot,,,,,,,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,43.604268, 1.441019
+full contact,SHAOLIN,shaolin-toulouse.com,,,,,,,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,43.609568, 1.497847
+golf,GOLF DE TOULOUSE LA RAMEE,www.golftoulouselaramee.com,,ZONE DE LA RAMEE,GOLF DE LA RAMEE,,31170.0,TOURNEFEUILLE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,43.583911, 1.342531
+gymnastique forme et loisirs,ASCM - ASSOCIATION SPORTIVE ET CULTURELLE MONTAUDRAN,www.ascm-montaudran.com,Montaudran Lespinet,Nouveau Complexe Municipal,Centre d'animation Montaudran,Impasse Gaston Genin,31400.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.573964, 1.48466
+gymnastique forme et loisirs,AVENIR ETIENNE BILLIERES,,Fontaine Lestang,SALLE CHRISTINE RUMEAU,SALLE CHRISTINE RUMEAU,Rue des Turres,,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.557832, 1.259208
+TUMBLING,COQUELICOT TOULOUSE GYM,www.ctgym.fr,Sauzelong - Rangueil,ENSEMBLE RANGUEIL,COSEC RANGUEIL,Chemin du Canal,31400.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.594967, 1.444373
+MUSCULATION - HALTEROPHILIE,ASPTT GRAND TOULOUSE OMNISPORT,www.toulouse.asptt.com,,,,,,,Non,Non,Non,Non,Oui,Oui,Oui,Oui,43.604268, 1.441019
+ATHLETISME ADAPTE (EN STADE),TOULOUSE INVALIDE CLUB,tlseic.free.fr,Minimes,STADE DES MINIMES,GYMNASE MINIMES ARNAUNE,Avenue Frédéric Estèbe,31200.0,TOULOUSE,Non,Non,Non,Non,Oui,Oui,Non,Oui,43.580039, 1.5160930000000001
+JUDO ADAPTE,TCMS section JUDO,,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,43.604268, 1.441019
+karaté,ARTS MARTIAUX TOULOUSE MIRAIL,www.amtm-toulouse-karate.fr,,ENSEMBLE VALMY BELLEFONTAINE,SALLE 1 D'ARTS MARTIAUX VALMY,,31100.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+ESCALADE,ESCAPADE CLUB,escapadeclub.net,Montaudran Lespinet,COMPLEXE PRIVÉ,Salle Altissimo,Rue Jean Rodier,31400.0,Toulouse,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,43.567716, 1.487043
+randonnée,ASPTT GRAND TOULOUSE OMNISPORT,perso.wanadoo.fr/d.hoizey,,Extérieurs de Toulouse,Les Alpes,,,Dans les Alpes,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.604268, 1.441019
+NATATION,TAC - Toulouse Athlétic Club,,Papus,GROUPE SCOLAIRE JACQUIER,PISCINE PAPUS,Allée de Guyenne,31100.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.628522, 1.426857
+pelote basque,ASPTT section PELOTE BASQUE,dany.briot@orange.fr,,,,,,,Non,Non,Non,Non,Non,Oui,Non,Non,43.604268, 1.441019
+pétanque,PINEL PETANQUE CLUB,,Guilheméry,BATIMENTS SUR DOMAINE PUBLIC,BOULODROME PL PINEL,Place Marius Pinel,31500.0,TOULOUSE,Non,Non,Non,Oui,Oui,Oui,Oui,Non,43.602706, 1.466438
+patinage artistique,TOULOUSE SPORTS DE GLACE,www.tsgpatinage.com,Juncasse - Argoulets,LES ARGOULETS,PATINOIRE FRATERNITE,Avenue de l' Hers,31500.0,TOULOUSE,Non,Non,Oui,Oui,Oui,Oui,Non,Non,43.608324, 1.498483
+taï chi chuan/Qi Gong,L'UNION DES ARTS,www.uniondesarts.com,Guilheméry,COMPLEXE PRIVÉ,L'Union des Arts,Rue Clément,31500.0,Toulouse,Non,Non,Non,Non,Oui,Oui,Oui,Non,43.605744, 1.465466
+taichindo,CENTRE DE TAICHINDO DE TOULOUSE,,Arnaud Bernard,LYCEE ST SERNIN MAISON MUTILE,GYMNASE SAINT SERNIN,Place Saint Sernin,31000.0,TOULOUSE,Non,Non,Non,Non,Non,Oui,Oui,Oui,43.618824, 1.433018
+tennis,TUC OMNISPORTS- Toulouse Université Club,www.tuc.asso.fr,Rangueil - CHR - Facultés,ENSEMBLE SPORTIF BELLEVUE,TENNIS BELLEVUE,Chemin de la Salade Ponsan,31400.0,TOULOUSE,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,43.567271, 1.4525190000000001

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../static/style_details.css">
+    <link rel="stylesheet" type="text/css" href="../static/header.css">
+    <!---lien google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+    <!---lien boxicons-->
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">    
+    
+    <title>Détails du Club</title>
+</head>
+<body>
+    <header>
+        <div class="header">
+            <a href='/' class="page_principale">Menu</a>
+        </div>
+    </header>
+
+    <div class="detail_club">
+        <h1>Détails du Club</h1>
+        <p>Visualise les Détails de ton club</p>
+
+        <div class="contenu">
+
+            <div class="box">
+                <div class="icon">
+                    <i class="bx bxs-universal-access"></i>
+                </div>
+                <div class="a">
+                    <h3>
+                        <ul>
+                            <li><strong>Discipline:</strong></li>
+                            <li>{{club[0]}}</li>
+                        </ul>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="icon">
+                    <i class='bx bx-hive'></i>
+                </div>
+                <div class="a">
+                    <h3>
+                        <ul>
+                            <li><strong>Nom Du Club:</strong></li>
+                            <li>{{club[1]}}</li>
+                        </ul>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="icon">
+                    <i class='bx bx-search-alt-2'></i>
+                </div>
+                <div class="a">
+                    <h3>
+                        <ul>
+                            <li><strong>Site Web:</strong></li>
+                            <li>{{club[2]}}</li>
+                        </ul>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="icon">
+                    <i class='bx bx-building-house'></i>
+                </div>
+                <div class="a">
+                    <h3>
+                        <ul>
+                            <li><strong>Quartier:</strong></li>
+                            <li>{{ club[3] }}</li>
+                        </ul>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="icon">
+                    <i class="bx bx-buildings"></i>
+                </div>
+                <div class="a">
+                    <h3>
+                        <ul>
+                            <li><strong>Complexe:</strong></li>
+                            <li> {{ club[4] }}</li>
+                        </ul>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="icon">
+                    <i class='bx bx-street-view'></i>
+                </div>
+                <div class="a">
+                    <h3>
+                        <ul>
+                            <li><strong>Rue:</strong></li>
+                            <li> {{ club[5] }}</li>
+                        </ul>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="icon">
+                    <i class='bx bx-current-location' ></i>
+                </div>
+                <div class="a">
+                    <h3>
+                        <ul>
+                            <li><strong>Geolocalisation:</strong></li>
+                            <li> {{ club[6] }}</li>
+                        </ul>
+                    </h3>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
