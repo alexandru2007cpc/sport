@@ -10,6 +10,7 @@ L'objectif de cette application est de rendre cette tache simple et rapide afin 
    --> [Télécharger git](https://git-scm.com/downloads)
 
 2) Installer Python
+   
    --> [Télécharger Python](https://www.python.org/downloads/)
      
 3) Aller dans l'invite de commandes et exécuter les lignes suivantes :
