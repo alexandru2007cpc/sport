@@ -90,7 +90,7 @@ def creationVisualisation( fed, age, sexe, region, tt_licensie, prop, table):
 
 
 # Construction d une table de données a partir d un fichier au format csv
-f = open("csv\l'annuaire-des-associations-et-clubs-sportifs@toulouse-metropole.csv","r",encoding="utf8")
+f = open("csv/l'annuaire-des-associations-et-clubs-sportifs@toulouse-metropole.csv","r",encoding="utf8")
 leslignes = csv.reader(f)
 
 # Construction de la liste qui contient les lignes du fichier csv
@@ -118,7 +118,7 @@ for ligne in range(1,len(table)):
     table[ligne].append(tranche_age)
 
 
-f2 = open("csv\Lics_2022.csv", "r", encoding="utf8")
+f2 = open("csv/Lics_2022.csv", "r", encoding="utf8")
 leslignes2 = csv.reader(f2, delimiter=';')
 table2 = []
 for lignes in leslignes2:
