@@ -8,8 +8,11 @@ L'objectif de cette application est de rendre cette tache simple et rapide afin 
 1) Installer git
    
    --> [Télécharger git](https://git-scm.com/downloads)
+
+2) Installer Python
+   --> [Télécharger Python](https://www.python.org/downloads/)
      
-2) Aller dans l'invite de commandes et exécuter les lignes suivantes :
+3) Aller dans l'invite de commandes et exécuter les lignes suivantes :
 
      ```bash
      $ git clone https://github.com/alexandru2007cpc/sport
@@ -18,7 +21,7 @@ L'objectif de cette application est de rendre cette tache simple et rapide afin 
      $ cd sources
      $ python app.py
      
-3) Cliquer sur le lien http://127.0.0.1:5000 qui s'affiche alors à l'écran.
+4) Cliquer sur le lien http://127.0.0.1:5000 qui s'affiche alors à l'écran.
 
 
 
